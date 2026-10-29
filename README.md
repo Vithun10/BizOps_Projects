@@ -41,4 +41,5 @@ The two projects ask different questions. FLOW looks at process capacity: where 
 - **Reproducibility:** each project's data comes from a seeded generator script, so the datasets can be regenerated.
 - **Modelled outcomes:** savings, capacity gains and risk trade-offs are scenario results. Nothing here claims realised business impact.
 
-## Vithun TR | Business Operations | Email : vithun@2701@gmail.com 
+**Vithun TR** | Business Operations  
+Email: [vithun@2701@gmail.com](mailto:vithun@2701@gmail.com)
