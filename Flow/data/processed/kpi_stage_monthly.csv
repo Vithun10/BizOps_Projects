@@ -1,0 +1,85 @@
+"ym","stage_no","stage_name","entries","exits","avg_queue_days","wip_in_stage_month_end","wip_queued_month_end"
+"2026-09",7,Activation Handoff,201,199,0.00,13,0
+"2026-08",7,Activation Handoff,224,223,0.00,11,0
+"2026-07",7,Activation Handoff,222,227,0.00,10,0
+"2026-06",7,Activation Handoff,202,204,0.01,15,0
+"2026-05",7,Activation Handoff,190,184,0.01,17,0
+"2026-04",7,Activation Handoff,204,205,0.00,11,0
+"2026-03",7,Activation Handoff,180,184,0.00,12,0
+"2026-02",7,Activation Handoff,151,145,0.00,16,0
+"2026-01",7,Activation Handoff,152,151,0.00,10,0
+"2025-12",7,Activation Handoff,175,175,0.02,9,0
+"2025-11",7,Activation Handoff,138,140,0.00,9,0
+"2025-10",7,Activation Handoff,142,136,0.00,11,0
+"2026-09",3,Contract & Legal Review,266,252,0.31,87,7
+"2026-08",3,Contract & Legal Review,237,239,0.33,73,2
+"2026-07",3,Contract & Legal Review,242,234,0.13,75,2
+"2026-06",3,Contract & Legal Review,237,247,0.11,67,8
+"2026-05",3,Contract & Legal Review,211,196,0.16,77,0
+"2026-04",3,Contract & Legal Review,222,228,0.17,62,3
+"2026-03",3,Contract & Legal Review,241,226,0.15,68,0
+"2026-02",3,Contract & Legal Review,193,179,0.12,53,1
+"2026-01",3,Contract & Legal Review,150,156,0.03,39,0
+"2025-12",3,Contract & Legal Review,178,216,0.02,45,0
+"2025-11",3,Contract & Legal Review,192,165,0.21,83,1
+"2025-10",3,Contract & Legal Review,159,160,0.06,56,0
+"2026-09",4,Finance Approval,241,216,5.45,84,52
+"2026-08",4,Finance Approval,237,221,2.06,59,31
+"2026-07",4,Finance Approval,234,250,2.59,43,16
+"2026-06",4,Finance Approval,245,210,2.12,59,31
+"2026-05",4,Finance Approval,195,217,0.95,24,2
+"2026-04",4,Finance Approval,222,214,1.83,46,18
+"2026-03",4,Finance Approval,218,212,0.40,38,6
+"2026-02",4,Finance Approval,176,163,0.59,32,1
+"2026-01",4,Finance Approval,155,161,0.21,19,0
+"2025-12",4,Finance Approval,210,209,0.43,25,1
+"2025-11",4,Finance Approval,158,151,0.11,24,0
+"2025-10",4,Finance Approval,157,162,0.08,17,0
+"2026-09",6,Go-live Readiness,209,201,0.06,56,0
+"2026-08",6,Go-live Readiness,228,226,0.04,48,1
+"2026-07",6,Go-live Readiness,224,227,0.01,46,0
+"2026-06",6,Go-live Readiness,209,203,0.00,49,0
+"2026-05",6,Go-live Readiness,194,191,0.04,43,0
+"2026-04",6,Go-live Readiness,195,204,0.03,40,0
+"2026-03",6,Go-live Readiness,198,180,0.00,49,0
+"2026-02",6,Go-live Readiness,142,153,0.00,31,0
+"2026-01",6,Go-live Readiness,156,153,0.02,42,0
+"2025-12",6,Go-live Readiness,179,177,0.10,39,2
+"2025-11",6,Go-live Readiness,144,141,0.02,37,0
+"2025-10",6,Go-live Readiness,153,143,0.01,34,0
+"2026-09",2,Handoff Acceptance,304,301,0.04,5,0
+"2026-08",2,Handoff Acceptance,264,264,0.03,2,0
+"2026-07",2,Handoff Acceptance,269,270,0.02,2,0
+"2026-06",2,Handoff Acceptance,271,272,0.01,3,0
+"2026-05",2,Handoff Acceptance,250,250,0.01,4,0
+"2026-04",2,Handoff Acceptance,263,263,0.01,4,0
+"2026-03",2,Handoff Acceptance,271,270,0.00,4,0
+"2026-02",2,Handoff Acceptance,209,215,0.01,3,0
+"2026-01",2,Handoff Acceptance,182,175,0.01,9,0
+"2025-12",2,Handoff Acceptance,197,201,0.00,2,0
+"2025-11",2,Handoff Acceptance,212,209,0.00,6,0
+"2025-10",2,Handoff Acceptance,175,175,0.03,3,0
+"2026-09",5,Implementation Setup,215,217,0.07,82,0
+"2026-08",5,Implementation Setup,223,237,0.03,84,1
+"2026-07",5,Implementation Setup,245,232,0.02,98,0
+"2026-06",5,Implementation Setup,208,221,0.02,85,0
+"2026-05",5,Implementation Setup,212,206,0.11,98,0
+"2026-04",5,Implementation Setup,213,207,0.01,92,0
+"2026-03",5,Implementation Setup,212,208,0.00,86,0
+"2026-02",5,Implementation Setup,159,147,0.00,82,0
+"2026-01",5,Implementation Setup,162,170,0.03,70,0
+"2025-12",5,Implementation Setup,208,189,0.05,78,0
+"2025-11",5,Implementation Setup,151,154,0.01,59,0
+"2025-10",5,Implementation Setup,159,160,0.00,62,0
+"2026-09",1,Intake & Submission,297,296,0.01,33,0
+"2026-08",1,Intake & Submission,260,258,0.00,32,0
+"2026-07",1,Intake & Submission,266,262,0.00,30,0
+"2026-06",1,Intake & Submission,251,260,0.00,26,0
+"2026-05",1,Intake & Submission,251,237,0.00,35,0
+"2026-04",1,Intake & Submission,222,246,0.00,21,0
+"2026-03",1,Intake & Submission,281,264,0.00,45,0
+"2026-02",1,Intake & Submission,200,205,0.00,28,0
+"2026-01",1,Intake & Submission,173,170,0.00,33,0
+"2025-12",1,Intake & Submission,194,185,0.01,30,0
+"2025-11",1,Intake & Submission,201,205,0.00,21,0
+"2025-10",1,Intake & Submission,167,171,0.00,25,0

@@ -1,0 +1,605 @@
+rework_event_id,application_id,stage_name,event_at,reason_code,source_team,receiving_team,estimated_minutes,resolution_status
+RWK-000001,APP-000003,Handoff Acceptance,2025-08-12 16:34:26,missing required fields,Sales,RevOps,75,Resolved
+RWK-000002,APP-000004,Handoff Acceptance,2025-08-20 09:34:39,Missing required fields,Sales,RevOps,0,Resolved
+RWK-000003,APP-000007,Handoff Acceptance,2025-08-19 11:41:19,Incorrect pricing or contract data,Sales,RevOps,29,Resolved
+RWK-000004,APP-000007,Contract & Legal Review,2025-09-04 15:27:51,Non-standard terms not flagged,Sales,Legal,80,Resolved
+RWK-000005,APP-000010,Implementation Setup,2025-10-16 14:16:39,Missing technical specification,Sales,Implementation,56,Resolved
+RWK-000006,APP-000016,Contract & Legal Review,2025-09-09 10:42:03,Missing signed contract documents,Sales,Legal,18,Resolved
+RWK-000007,APP-000030,Handoff Acceptance,2025-09-01 10:40:42,Incorrect pricing or contract data,Sales,RevOps,19,Resolved
+RWK-000008,APP-000032,Finance Approval,2025-09-12 15:59:28,Incorrect billing details,RevOps,Finance,49,Resolved
+RWK-000009,APP-000034,Finance Approval,2025-09-22 14:41:37,Credit information missing,RevOps,Finance,17,Resolved
+RWK-000010,APP-000039,Implementation Setup,2025-09-23 14:32:18,Unclear requirements,Sales,Implementation,67,Resolved
+RWK-000011,APP-000041,Finance Approval,2025-09-10 09:08:51,Credit information missing,RevOps,Finance,18,Resolved
+RWK-000012,APP-000042,Implementation Setup,2025-09-22 10:06:41,Unclear requirements,Sales,Implementation,63,Resolved
+RWK-000013,APP-000053,Handoff Acceptance,2025-09-09 16:54:06,Missing required fields,Sales,RevOps,49,Resolved
+RWK-000014,APP-000054,Handoff Acceptance,2025-09-05 10:48:21,Missing customer contact details,Sales,RevOps,34,Resolved
+RWK-000015,APP-000058,Finance Approval,2025-09-24 09:48:11,Credit information missing,Sales,Finance,79,Resolved
+RWK-000016,APP-000061,Contract & Legal Review,2025-09-12 09:35:46,Non-standard terms not flagged,Sales,Legal,42,Resolved
+RWK-000017,APP-000062,Handoff Acceptance,2025-09-08 15:19:26,Incorrect pricing or contract data,Sales,RevOps,25,Resolved
+RWK-000018,APP-000071,Finance Approval,2025-09-22 12:10:06,Credit information missing,Sales,Finance,98,Resolved
+RWK-000019,APP-000076,Handoff Acceptance,2025-09-09 17:10:45,Missing required fields,Sales,RevOps,46,Resolved
+RWK-000020,APP-000083,Handoff Acceptance,2025-09-15 11:50:10,Missing customer contact details,Sales,RevOps,54,Resolved
+RWK-000021,APP-000086,Handoff Acceptance,2025-09-15 10:31:34,Missing required fields,Sales,RevOps,54,Resolved
+RWK-000022,APP-000086,Contract & Legal Review,2025-09-17 11:11:23,Non-standard terms not flagged,Sales,Legal,22,Resolved
+RWK-000023,APP-000094,Handoff Acceptance,2025-09-15 10:15:30,missing required fields,Sales,RevOps,21,Resolved
+RWK-000024,APP-000095,Implementation Setup,2025-11-11 11:23:11,Missing technical specification,Sales,Implementation,171,Resolved
+RWK-000025,APP-000096,Finance Approval,2025-10-01 13:44:05,Credit information missing,Sales,Finance,40,Resolved
+RWK-000026,APP-000097,Contract & Legal Review,2025-10-08 17:50:59,Missing signed contract documents,Sales,Legal,27,Resolved
+RWK-000027,APP-000099,Contract & Legal Review,2025-09-19 10:32:33,Non-standard terms not flagged,Sales,Legal,82,Resolved
+RWK-000028,APP-000101,Handoff Acceptance,2025-09-18 14:53:00,Missing required fields,Sales,RevOps,20,Resolved
+RWK-000029,APP-000114,Finance Approval,2025-09-30 09:18:40,Credit information missing,Sales,Finance,117,Resolved
+RWK-000030,APP-000116,Contract & Legal Review,2025-10-07 11:08:17,Missing signed contract documents,Sales,Legal,34,Resolved
+RWK-000031,APP-000125,Contract & Legal Review,2025-09-26 17:31:51,Missing signed contract documents,Sales,Legal,63,Resolved
+RWK-000032,APP-000129,Implementation Setup,2025-10-03 17:29:41,Unclear requirements,RevOps,Implementation,0,Resolved
+RWK-000033,APP-000132,Implementation Setup,2025-11-17 10:07:01,Missing technical specification,Sales,Implementation,10,Resolved
+RWK-000034,APP-000133,Handoff Acceptance,2025-09-24 12:53:18,Missing required fields,Sales,RevOps,64,Invalid
+RWK-000035,APP-000137,Finance Approval,2025-10-01 09:14:13,Incorrect billing details,RevOps,Finance,18,Resolved
+RWK-000036,APP-000141,Handoff Acceptance,2025-09-25 12:43:10,Missing required fields,Sales,RevOps,77,Resolved
+RWK-000037,APP-000147,Handoff Acceptance,2025-09-26 15:54:14,Incorrect pricing or contract data,Sales,RevOps,61,Resolved
+RWK-000038,APP-000147,Finance Approval,2025-10-10 12:26:55,Credit information missing,Sales,Finance,43,Resolved
+RWK-000039,APP-000152,Finance Approval,2025-10-17 10:48:13,Incorrect billing details,RevOps,Finance,11,Resolved
+RWK-000040,APP-000156,Handoff Acceptance,2025-09-29 09:28:12,Missing required fields,Sales,RevOps,32,Resolved
+RWK-000041,APP-000161,Handoff Acceptance,2025-09-26 12:02:31,Missing required fields,Sales,RevOps,68,Resolved
+RWK-000042,APP-000161,Finance Approval,2025-10-07 15:00:01,Credit information missing,Sales,Finance,32,Resolved
+RWK-000043,APP-000163,Handoff Acceptance,2025-10-08 15:44:08,Missing required fields,Sales,RevOps,25,Resolved
+RWK-000044,APP-000169,Handoff Acceptance,2025-09-26 13:50:56,Missing required fields,Sales,RevOps,9,Resolved
+RWK-000045,APP-000176,Finance Approval,2025-10-08 15:36:13,Credit information missing,Sales,Finance,57,Resolved
+RWK-000046,APP-000176,Implementation Setup,2025-10-17 16:08:59,Unclear requirements,Sales,Implementation,62,Resolved
+RWK-000047,APP-000178,Contract & Legal Review,2025-09-30 11:08:18,Non-standard terms not flagged,Sales,Legal,12,Resolved
+RWK-000048,APP-000181,Finance Approval,2025-10-15 10:29:54,Credit information missing,Sales,Finance,17,Resolved
+RWK-000049,APP-000182,Handoff Acceptance,2025-10-01 16:17:50,Missing required fields,Sales,RevOps,94,Resolved
+RWK-000050,APP-000184,Handoff Acceptance,2025-10-03 14:53:30,Missing required fields,Sales,RevOps,95,Resolved
+RWK-000051,APP-000194,Finance Approval,2025-10-13 14:15:21,Incorrect billing details,RevOps,Finance,16,Resolved
+RWK-000052,APP-000220,Handoff Acceptance,2025-10-09 11:06:12,Incorrect pricing or contract data,Sales,RevOps,57,Resolved
+RWK-000053,APP-000225,Finance Approval,2025-10-28 11:05:21,Incorrect billing details,RevOps,Finance,29,Resolved
+RWK-000054,APP-000226,Handoff Acceptance,2025-10-14 14:17:13,Incorrect pricing or contract data,Sales,RevOps,77,Resolved
+RWK-000055,APP-000228,Handoff Acceptance,2025-10-09 13:37:17,Incorrect pricing or contract data,Sales,RevOps,53,Resolved
+RWK-000056,APP-000245,Handoff Acceptance,2025-11-10 11:17:08,Missing required fields,Sales,RevOps,68,Resolved
+RWK-000057,APP-000248,Finance Approval,2025-10-30 10:53:06,Incorrect billing details,RevOps,Finance,49,Resolved
+RWK-000058,APP-000250,Finance Approval,2025-11-11 09:29:26,Incorrect billing details,Sales,Finance,82,Resolved
+RWK-000059,APP-000262,Finance Approval,2025-10-29 09:04:06,Credit information missing,Sales,Finance,55,Resolved
+RWK-000060,APP-000263,Finance Approval,2025-10-27 15:07:55,Credit information missing,Sales,Finance,53,Resolved
+RWK-000061,APP-000268,Handoff Acceptance,2025-10-21 16:22:15,Missing required fields,Sales,RevOps,29,Resolved
+RWK-000062,APP-000275,Contract & Legal Review,2025-11-25 10:19:42,Missing signed contract documents,Sales,Legal,106,Resolved
+RWK-000063,APP-000282,Implementation Setup,2025-12-01 17:17:34,Missing technical specification,RevOps,Implementation,126,Resolved
+RWK-000064,APP-000290,Finance Approval,2025-11-05 11:11:07,Credit information missing,Sales,Finance,30,Resolved
+RWK-000065,APP-000298,Contract & Legal Review,2025-11-21 17:58:14,Missing signed contract documents,Sales,Legal,22,Resolved
+RWK-000066,APP-000299,Handoff Acceptance,2025-10-27 09:24:26,Missing required fields,Sales,RevOps,43,Resolved
+RWK-000067,APP-000308,Handoff Acceptance,2025-10-24 13:47:59,Missing required fields,Sales,RevOps,12,Resolved
+RWK-000068,APP-000308,Finance Approval,2025-11-03 16:14:56,Credit information missing,Sales,Finance,12,Resolved
+RWK-000069,APP-000310,Handoff Acceptance,2025-10-29 13:25:31,Incorrect pricing or contract data,Sales,RevOps,16,Resolved
+RWK-000070,APP-000312,Finance Approval,2025-11-11 10:28:50,Incorrect billing details,Sales,Finance,36,Invalid
+RWK-000071,APP-000312,Implementation Setup,2025-11-13 10:05:46,Missing technical specification,Sales,Implementation,57,Resolved
+RWK-000072,APP-000321,Handoff Acceptance,2025-10-28 12:24:27,Missing required fields,Sales,RevOps,84,Resolved
+RWK-000073,APP-000322,Finance Approval,2025-11-06 15:55:19,Credit information missing,RevOps,Finance,33,Resolved
+RWK-000074,APP-000332,Finance Approval,2025-11-10 17:59:55,Incorrect billing details,Sales,Finance,23,Resolved
+RWK-000075,APP-000333,Contract & Legal Review,2025-11-05 15:20:46,Non-standard terms not flagged,Sales,Legal,8,Resolved
+RWK-000076,APP-000336,Contract & Legal Review,2025-11-20 14:55:17,Missing signed contract documents,Sales,Legal,67,Resolved
+RWK-000077,APP-000336,Implementation Setup,2025-12-24 16:36:16,Missing technical specification,RevOps,Implementation,51,Resolved
+RWK-000078,APP-000337,Contract & Legal Review,2025-11-20 11:20:05,Missing signed contract documents,Sales,Legal,40,Resolved
+RWK-000079,APP-000339,Contract & Legal Review,2025-11-14 15:10:51,Non-standard terms not flagged,Sales,Legal,95,Resolved
+RWK-000080,APP-000344,Handoff Acceptance,2025-11-03 13:27:42,Missing required fields,Sales,RevOps,30,Resolved
+RWK-000081,APP-000351,Finance Approval,2025-11-14 09:16:36,Credit information missing,Sales,Finance,7,Resolved
+RWK-000082,APP-000359,Contract & Legal Review,2025-11-07 15:13:16,Non-standard terms not flagged,Sales,Legal,148,Resolved
+RWK-000083,APP-000371,Handoff Acceptance,2025-11-10 17:58:33,Incorrect pricing or contract data,Sales,RevOps,15,Resolved
+RWK-000084,APP-000374,Finance Approval,2025-11-11 17:39:35,Credit information missing,RevOps,Finance,28,Resolved
+RWK-000085,APP-000376,Handoff Acceptance,2025-11-06 09:50:48,Incorrect pricing or contract data,Sales,RevOps,0,Resolved
+RWK-000086,APP-000381,Handoff Acceptance,2025-11-10 12:17:40,Missing required fields,Sales,RevOps,118,Resolved
+RWK-000087,APP-000381,Finance Approval,2025-12-11 16:12:19,Incorrect billing details,RevOps,Finance,29,Resolved
+RWK-000088,APP-000385,Implementation Setup,2026-01-13 13:01:35,Missing technical specification,Sales,Implementation,94,Resolved
+RWK-000089,APP-000390,Contract & Legal Review,2025-11-13 17:17:42,Missing signed contract documents,Sales,Legal,56,Resolved
+RWK-000090,APP-000391,Handoff Acceptance,2025-11-18 13:47:40,Missing required fields,Sales,RevOps,47,Resolved
+RWK-000091,APP-000400,Implementation Setup,2025-12-08 12:24:24,Missing technical specification,RevOps,Implementation,77,Resolved
+RWK-000092,APP-000416,Handoff Acceptance,2025-11-11 14:39:46,Missing required fields,Sales,RevOps,6,Resolved
+RWK-000093,APP-000416,Finance Approval,2025-11-24 10:36:15,Incorrect billing details,Sales,Finance,28,Resolved
+RWK-000094,APP-000417,Handoff Acceptance,2025-11-12 14:55:49,Missing customer contact details,Sales,RevOps,29,Resolved
+RWK-000095,APP-000422,Handoff Acceptance,2025-11-12 16:24:16,Incorrect pricing or contract data,Sales,RevOps,80,Resolved
+RWK-000096,APP-000424,Handoff Acceptance,2025-11-13 15:34:54,Missing required fields,Sales,RevOps,56,Resolved
+RWK-000097,APP-000425,Handoff Acceptance,2025-11-13 12:42:22,Missing customer contact details,Sales,RevOps,12,Resolved
+RWK-000098,APP-000425,Contract & Legal Review,2025-11-21 10:59:09,Missing signed contract documents,Sales,Legal,104,Resolved
+RWK-000099,APP-000429,Handoff Acceptance,2025-11-21 14:06:32,Missing customer contact details,Sales,RevOps,8,Resolved
+RWK-000100,APP-000429,Contract & Legal Review,2025-11-27 10:05:01,Missing signed contract documents,Sales,Legal,114,Resolved
+RWK-000101,APP-000431,Contract & Legal Review,2025-11-26 13:07:10,Non-standard terms not flagged,Sales,Legal,9,Resolved
+RWK-000102,APP-000434,Finance Approval,2025-11-21 11:06:39,Incorrect billing details,RevOps,Finance,16,Resolved
+RWK-000103,APP-000436,Handoff Acceptance,2025-11-21 11:46:24,Missing customer contact details,Sales,RevOps,39,Resolved
+RWK-000104,APP-000440,Handoff Acceptance,2025-11-17 12:10:44,Missing customer contact details,Sales,RevOps,88,Resolved
+RWK-000105,APP-000446,Implementation Setup,2025-11-26 10:45:33,Missing technical specification,RevOps,Implementation,89,Resolved
+RWK-000106,APP-000456,Handoff Acceptance,2025-11-21 16:19:43,Missing required fields,Sales,RevOps,13,Resolved
+RWK-000107,APP-000458,Contract & Legal Review,2025-11-26 17:39:00,Missing signed contract documents,Sales,Legal,15,Resolved
+RWK-000108,APP-000464,Handoff Acceptance,2025-11-24 14:41:08,Missing required fields,Sales,RevOps,13,Resolved
+RWK-000109,APP-000469,Implementation Setup,2025-12-24 14:59:01,Missing technical specification,RevOps,Implementation,40,Resolved
+RWK-000110,APP-000473,Handoff Acceptance,2025-11-20 14:01:34,Missing required fields,Sales,RevOps,20,Resolved
+RWK-000111,APP-000473,Contract & Legal Review,2025-11-24 17:53:47,Missing signed contract documents,Sales,Legal,87,Resolved
+RWK-000112,APP-000474,Handoff Acceptance,2025-11-26 14:10:25,Missing required fields,Sales,RevOps,31,Resolved
+RWK-000113,APP-000474,Contract & Legal Review,2025-12-01 09:03:17,Non-standard terms not flagged,Sales,Legal,19,Resolved
+RWK-000114,APP-000475,Implementation Setup,2025-12-05 16:08:38,Unclear requirements,Sales,Implementation,44,Resolved
+RWK-000115,APP-000479,Handoff Acceptance,2025-11-25 10:29:26,Missing required fields,Sales,RevOps,60,Resolved
+RWK-000116,APP-000485,Finance Approval,2025-12-05 09:33:06,Incorrect billing details,Sales,Finance,87,Resolved
+RWK-000117,APP-000485,Implementation Setup,2025-12-16 14:55:33,Unclear requirements,Sales,Implementation,14,Resolved
+RWK-000118,APP-000486,Handoff Acceptance,2025-12-05 11:41:27,Missing required fields,Sales,RevOps,70,Resolved
+RWK-000119,APP-000504,Finance Approval,2025-12-02 14:25:55,Incorrect billing details,Sales,Finance,20,Resolved
+RWK-000120,APP-000506,Finance Approval,2025-12-03 17:54:57,Incorrect billing details,Sales,Finance,43,Resolved
+RWK-000121,APP-000510,Finance Approval,2025-12-08 15:15:46,Credit information missing,Sales,Finance,14,Resolved
+RWK-000122,APP-000517,Handoff Acceptance,2025-12-02 15:39:58,Missing customer contact details,Sales,RevOps,84,Resolved
+RWK-000123,APP-000517,Finance Approval,2026-01-09 16:07:28,Incorrect billing details,RevOps,Finance,56,Resolved
+RWK-000124,APP-000520,Finance Approval,2025-12-10 13:26:39,Credit information missing,RevOps,Finance,11,Resolved
+RWK-000125,APP-000525,Handoff Acceptance,2025-12-02 12:17:13,Missing required fields,Sales,RevOps,16,Resolved
+RWK-000126,APP-000531,Handoff Acceptance,2025-11-28 10:04:37,Missing customer contact details,Sales,RevOps,35,Resolved
+RWK-000127,APP-000532,Handoff Acceptance,2025-11-28 14:01:08,Missing customer contact details,Sales,RevOps,54,Resolved
+RWK-000128,APP-000539,Contract & Legal Review,2025-12-08 11:20:11,Non-standard terms not flagged,Sales,Legal,36,Resolved
+RWK-000129,APP-000541,Handoff Acceptance,2025-12-02 17:17:35,Missing required fields,Sales,RevOps,60,Resolved
+RWK-000130,APP-000546,Handoff Acceptance,2025-12-08 11:29:33,Missing required fields,Sales,RevOps,78,Resolved
+RWK-000131,APP-000547,Contract & Legal Review,2025-12-11 09:59:16,Non-standard terms not flagged,Sales,Legal,39,Resolved
+RWK-000132,APP-000548,Handoff Acceptance,2025-12-02 17:13:27,Missing required fields,Sales,RevOps,61,Resolved
+RWK-000133,APP-000550,Finance Approval,2025-12-15 11:55:01,Credit information missing,RevOps,Finance,0,Resolved
+RWK-000134,APP-000551,Contract & Legal Review,2025-12-05 13:30:13,Missing signed contract documents,Sales,Legal,21,Invalid
+RWK-000135,APP-000552,Contract & Legal Review,2025-12-09 11:57:45,Missing signed contract documents,Sales,Legal,79,Resolved
+RWK-000136,APP-000557,Contract & Legal Review,2025-12-09 10:35:06,Non-standard terms not flagged,Sales,Legal,35,Resolved
+RWK-000137,APP-000568,Contract & Legal Review,2025-12-24 13:02:21,Missing signed contract documents,Sales,Legal,144,Resolved
+RWK-000138,APP-000568,Finance Approval,2026-01-09 17:24:27,Credit information missing,Sales,Finance,98,Resolved
+RWK-000139,APP-000574,Finance Approval,2025-12-22 14:13:22,Incorrect billing details,Sales,Finance,9,Resolved
+RWK-000140,APP-000576,Implementation Setup,2026-01-15 16:36:13,Missing technical specification,Sales,Implementation,117,Resolved
+RWK-000141,APP-000577,Implementation Setup,2025-12-26 11:44:20,Missing technical specification,Sales,Implementation,57,Resolved
+RWK-000142,APP-000582,Contract & Legal Review,2025-12-26 12:29:12,Missing signed contract documents,Sales,Legal,82,Resolved
+RWK-000143,APP-000585,Handoff Acceptance,2025-12-15 16:01:00,Missing required fields,Sales,RevOps,30,Resolved
+RWK-000144,APP-000593,Finance Approval,2025-12-22 16:39:35,Incorrect billing details,Sales,Finance,22,Resolved
+RWK-000145,APP-000596,Finance Approval,2025-12-17 13:00:20,Incorrect billing details,RevOps,Finance,30,Resolved
+RWK-000146,APP-000597,Handoff Acceptance,2025-12-10 15:50:53,Missing required fields,Sales,RevOps,58,Resolved
+RWK-000147,APP-000597,Implementation Setup,2026-01-06 17:56:52,Missing technical specification,Sales,Implementation,0,Resolved
+RWK-000148,APP-000605,Finance Approval,2025-12-17 17:31:49,Incorrect billing details,Sales,Finance,21,Resolved
+RWK-000149,APP-000608,Contract & Legal Review,2025-12-17 17:37:54,Non-standard terms not flagged,Sales,Legal,63,Resolved
+RWK-000150,APP-000611,Contract & Legal Review,2025-12-16 10:57:39,Non-standard terms not flagged,Sales,Legal,26,Resolved
+RWK-000151,APP-000614,Implementation Setup,2026-01-05 13:16:23,Missing technical specification,RevOps,Implementation,71,Invalid
+RWK-000152,APP-000632,Finance Approval,2025-12-24 14:07:56,Incorrect billing details,RevOps,Finance,16,Resolved
+RWK-000153,APP-000635,Finance Approval,2025-12-29 15:05:35,Credit information missing,RevOps,Finance,34,Resolved
+RWK-000154,APP-000640,Finance Approval,2026-01-08 16:04:05,Credit information missing,RevOps,Finance,22,Resolved
+RWK-000155,APP-000642,Implementation Setup,2026-01-06 16:40:27,Unclear requirements,Sales,Implementation,34,Resolved
+RWK-000156,APP-000654,Contract & Legal Review,2025-12-29 09:43:17,Non-standard terms not flagged,Sales,Legal,15,Resolved
+RWK-000157,APP-000655,Implementation Setup,2026-01-27 12:06:39,Missing technical specification,RevOps,Implementation,35,Resolved
+RWK-000158,APP-000656,Handoff Acceptance,2025-12-24 17:22:43,Missing required fields,Sales,RevOps,28,Resolved
+RWK-000159,APP-000657,Handoff Acceptance,2025-12-24 09:34:44,Incorrect pricing or contract data,Sales,RevOps,19,Resolved
+RWK-000160,APP-000661,Implementation Setup,2026-01-09 14:52:42,Missing technical specification,Sales,Implementation,43,Resolved
+RWK-000161,APP-000670,Implementation Setup,2026-01-13 11:23:06,Missing technical specification,RevOps,Implementation,59,Resolved
+RWK-000162,APP-000674,Handoff Acceptance,2025-12-29 14:18:34,Incorrect pricing or contract data,Sales,RevOps,126,Resolved
+RWK-000163,APP-000675,Handoff Acceptance,2026-01-06 10:03:36,Missing required fields,Sales,RevOps,108,Resolved
+RWK-000164,APP-000678,Finance Approval,2026-01-02 12:37:40,Incorrect billing details,RevOps,Finance,88,Resolved
+RWK-000165,APP-000681,Handoff Acceptance,2025-12-29 12:06:51,Missing customer contact details,Sales,RevOps,47,Resolved
+RWK-000166,APP-000681,Contract & Legal Review,2026-01-06 13:56:33,Non-standard terms not flagged,Sales,Legal,24,Resolved
+RWK-000167,APP-000699,Handoff Acceptance,2025-12-31 10:21:48,missing required fields,Sales,RevOps,35,Resolved
+RWK-000168,APP-000699,Finance Approval,2026-01-20 09:55:45,Incorrect billing details,Sales,Finance,73,Resolved
+RWK-000169,APP-000706,Contract & Legal Review,2025-12-31 17:20:57,Missing signed contract documents,Sales,Legal,32,Resolved
+RWK-000170,APP-000708,Handoff Acceptance,2026-01-02 15:07:33,Missing customer contact details,Sales,RevOps,25,Resolved
+RWK-000171,APP-000710,Implementation Setup,2026-01-13 12:40:27,Missing technical specification,Sales,Implementation,27,Resolved
+RWK-000172,APP-000711,Finance Approval,2026-01-14 12:08:04,Credit information missing,Sales,Finance,17,Resolved
+RWK-000173,APP-000722,Handoff Acceptance,2026-01-05 12:12:50,Missing required fields,Sales,RevOps,51,Resolved
+RWK-000174,APP-000724,Handoff Acceptance,2026-01-05 16:32:23,Incorrect pricing or contract data,Sales,RevOps,18,Resolved
+RWK-000175,APP-000728,Contract & Legal Review,2026-01-22 16:03:08,Missing signed contract documents,Sales,Legal,150,Resolved
+RWK-000176,APP-000728,Finance Approval,2026-01-30 17:07:26,Incorrect billing details,RevOps,Finance,45,Resolved
+RWK-000177,APP-000729,Finance Approval,2026-01-19 13:44:20,Credit information missing,Sales,Finance,18,Resolved
+RWK-000178,APP-000730,Handoff Acceptance,2026-01-09 12:14:35,Incorrect pricing or contract data,Sales,RevOps,77,Resolved
+RWK-000179,APP-000742,Implementation Setup,2026-03-06 16:07:52,Missing technical specification,Sales,Implementation,110,Resolved
+RWK-000180,APP-000743,Finance Approval,2026-01-12 11:24:39,credit information missing,Sales,Finance,47,Resolved
+RWK-000181,APP-000752,Implementation Setup,2026-02-24 10:20:30,Unclear requirements,RevOps,Implementation,46,Resolved
+RWK-000182,APP-000754,Finance Approval,2026-01-21 14:23:16,Incorrect billing details,RevOps,Finance,42,Resolved
+RWK-000183,APP-000755,Handoff Acceptance,2026-01-12 12:13:45,missing required fields,Sales,RevOps,181,Resolved
+RWK-000184,APP-000765,Contract & Legal Review,2026-01-13 13:14:31,Non-standard terms not flagged,Sales,Legal,15,Resolved
+RWK-000185,APP-000768,Handoff Acceptance,2026-01-13 11:34:18,Missing required fields,Sales,RevOps,133,Resolved
+RWK-000186,APP-000773,Contract & Legal Review,2026-01-14 17:46:57,Non-standard terms not flagged,Sales,Legal,0,Resolved
+RWK-000187,APP-000775,Handoff Acceptance,2026-01-14 16:32:19,Missing required fields,Sales,RevOps,57,Resolved
+RWK-000188,APP-000777,Contract & Legal Review,2026-01-23 09:49:08,Non-standard terms not flagged,Sales,Legal,9,Resolved
+RWK-000189,APP-000786,Contract & Legal Review,2026-02-11 10:48:01,Missing signed contract documents,Sales,Legal,58,Resolved
+RWK-000190,APP-000788,Contract & Legal Review,2026-01-21 12:04:46,Non-standard terms not flagged,Sales,Legal,10,Resolved
+RWK-000191,APP-000790,Contract & Legal Review,2026-01-20 16:15:35,Missing signed contract documents,Sales,Legal,56,Resolved
+RWK-000192,APP-000791,Handoff Acceptance,2026-01-15 14:18:58,Missing required fields,Sales,RevOps,30,Resolved
+RWK-000193,APP-000795,Finance Approval,2026-02-11 17:51:24,Incorrect billing details,Sales,Finance,25,Resolved
+RWK-000194,APP-000800,Handoff Acceptance,2026-01-27 14:53:10,Missing customer contact details,Sales,RevOps,32,Resolved
+RWK-000195,APP-000813,Handoff Acceptance,2026-01-28 10:00:55,Missing required fields,Sales,RevOps,110,Resolved
+RWK-000196,APP-000814,Implementation Setup,2026-04-28 14:12:14,Missing technical specification,Sales,Implementation,97,Resolved
+RWK-000197,APP-000817,Handoff Acceptance,2026-01-23 14:37:05,Missing customer contact details,Sales,RevOps,41,Resolved
+RWK-000198,APP-000817,Finance Approval,2026-02-05 10:18:41,Incorrect billing details,Sales,Finance,109,Resolved
+RWK-000199,APP-000823,Handoff Acceptance,2026-01-27 09:18:39,Missing required fields,Sales,RevOps,41,Resolved
+RWK-000200,APP-000825,Implementation Setup,2026-02-25 17:45:00,Missing technical specification,Sales,Implementation,55,Resolved
+RWK-000201,APP-000827,Contract & Legal Review,2026-02-04 12:59:52,Non-standard terms not flagged,Sales,Legal,18,Resolved
+RWK-000202,APP-000830,Handoff Acceptance,2026-02-06 12:56:13,Incorrect pricing or contract data,Sales,RevOps,77,Resolved
+RWK-000203,APP-000831,Handoff Acceptance,2026-01-30 14:16:13,Incorrect pricing or contract data,Sales,RevOps,104,Resolved
+RWK-000204,APP-000835,Finance Approval,2026-02-03 15:05:56,Incorrect billing details,Sales,Finance,31,Resolved
+RWK-000205,APP-000845,Handoff Acceptance,2026-01-29 12:00:23,Missing required fields,Sales,RevOps,61,Resolved
+RWK-000206,APP-000846,Contract & Legal Review,2026-02-03 17:21:28,Missing signed contract documents,Sales,Legal,17,Resolved
+RWK-000207,APP-000848,Handoff Acceptance,2026-02-02 15:06:43,Missing required fields,Sales,RevOps,14,Resolved
+RWK-000208,APP-000849,Handoff Acceptance,2026-02-09 11:19:17,Missing required fields,Sales,RevOps,70,Resolved
+RWK-000209,APP-000852,Handoff Acceptance,2026-02-04 09:20:46,Missing required fields,Sales,RevOps,79,Resolved
+RWK-000210,APP-000856,Contract & Legal Review,2026-02-13 09:53:44,Missing signed contract documents,Sales,Legal,44,Resolved
+RWK-000211,APP-000861,Handoff Acceptance,2026-02-03 11:45:20,incorrect pricing or contract data,Sales,RevOps,28,Resolved
+RWK-000212,APP-000864,Finance Approval,2026-02-20 09:22:24,Credit information missing,RevOps,Finance,20,Resolved
+RWK-000213,APP-000871,Contract & Legal Review,2026-02-17 09:59:48,Missing signed contract documents,Sales,Legal,59,Resolved
+RWK-000214,APP-000875,Finance Approval,2026-02-18 10:27:24,Credit information missing,RevOps,Finance,0,Resolved
+RWK-000215,APP-000879,Implementation Setup,2026-03-02 15:21:33,Missing technical specification,Sales,Implementation,74,Resolved
+RWK-000216,APP-000887,Handoff Acceptance,2026-02-09 17:23:15,Missing required fields,Sales,RevOps,118,Resolved
+RWK-000217,APP-000887,Contract & Legal Review,2026-02-20 14:33:27,Non-standard terms not flagged,Sales,Legal,49,Resolved
+RWK-000218,APP-000888,Handoff Acceptance,2026-02-05 10:23:11,Missing required fields,Sales,RevOps,60,Resolved
+RWK-000219,APP-000894,Contract & Legal Review,2026-02-11 14:51:54,Missing signed contract documents,Sales,Legal,32,Resolved
+RWK-000220,APP-000898,Handoff Acceptance,2026-02-05 14:47:50,Incorrect pricing or contract data,Sales,RevOps,20,Resolved
+RWK-000221,APP-000898,Implementation Setup,2026-02-19 14:55:15,Missing technical specification,Sales,Implementation,29,Resolved
+RWK-000222,APP-000899,Handoff Acceptance,2026-02-05 13:00:55,Missing customer contact details,Sales,RevOps,45,Resolved
+RWK-000223,APP-000901,Finance Approval,2026-02-19 16:36:43,Incorrect billing details,Sales,Finance,72,Resolved
+RWK-000224,APP-000903,Handoff Acceptance,2026-02-05 17:29:58,Missing required fields,Sales,RevOps,47,Resolved
+RWK-000225,APP-000905,Handoff Acceptance,2026-02-09 12:39:35,Incorrect pricing or contract data,Sales,RevOps,64,Resolved
+RWK-000226,APP-000907,Finance Approval,2026-02-23 10:30:48,Credit information missing,RevOps,Finance,15,Resolved
+RWK-000227,APP-000912,Handoff Acceptance,2026-02-09 10:27:02,Missing required fields,Sales,RevOps,47,Resolved
+RWK-000228,APP-000914,Contract & Legal Review,2026-02-13 15:40:10,Non-standard terms not flagged,Sales,Legal,32,Resolved
+RWK-000229,APP-000917,Handoff Acceptance,2026-02-11 09:10:35,incorrect pricing or contract data,Sales,RevOps,159,Resolved
+RWK-000230,APP-000922,Contract & Legal Review,2026-02-16 14:55:42,Non-standard terms not flagged,Sales,Legal,50,Resolved
+RWK-000231,APP-000931,Implementation Setup,2026-03-10 14:51:32,Missing technical specification,RevOps,Implementation,53,Resolved
+RWK-000232,APP-000943,Finance Approval,2026-02-23 13:51:48,Credit information missing,Sales,Finance,31,Resolved
+RWK-000233,APP-000954,Finance Approval,2026-02-26 16:25:07,Incorrect billing details,RevOps,Finance,56,Resolved
+RWK-000234,APP-000962,Contract & Legal Review,2026-02-18 10:30:21,Non-standard terms not flagged,Sales,Legal,12,Resolved
+RWK-000235,APP-000964,Handoff Acceptance,2026-02-23 16:14:15,Missing required fields,Sales,RevOps,14,Resolved
+RWK-000236,APP-000964,Contract & Legal Review,2026-03-05 10:49:41,Non-standard terms not flagged,Sales,Legal,33,Resolved
+RWK-000237,APP-000966,Handoff Acceptance,2026-02-20 13:39:19,Missing required fields,Sales,RevOps,40,Resolved
+RWK-000238,APP-000971,Handoff Acceptance,2026-02-17 13:57:42,Missing required fields,Sales,RevOps,34,Resolved
+RWK-000239,APP-000974,Handoff Acceptance,2026-02-20 10:49:39,Missing required fields,Sales,RevOps,53,Resolved
+RWK-000240,APP-000976,Implementation Setup,2026-03-26 13:51:41,Missing technical specification,RevOps,Implementation,34,Resolved
+RWK-000241,APP-000997,Contract & Legal Review,2026-03-20 14:55:28,Non-standard terms not flagged,Sales,Legal,55,Resolved
+RWK-000242,APP-001007,Contract & Legal Review,2026-03-06 11:37:50,Non-standard terms not flagged,Sales,Legal,30,Resolved
+RWK-000243,APP-001009,Implementation Setup,2026-03-26 10:44:31,Unclear requirements,Sales,Implementation,94,Resolved
+RWK-000244,APP-001018,Contract & Legal Review,2026-03-06 12:52:53,Non-standard terms not flagged,Sales,Legal,61,Resolved
+RWK-000245,APP-001028,Handoff Acceptance,2026-02-25 14:17:55,Missing customer contact details,Sales,RevOps,55,Resolved
+RWK-000246,APP-001040,Finance Approval,2026-03-26 13:03:51,Incorrect billing details,Sales,Finance,24,Resolved
+RWK-000247,APP-001046,Handoff Acceptance,2026-03-03 15:17:18,Missing customer contact details,Sales,RevOps,76,Resolved
+RWK-000248,APP-001047,Handoff Acceptance,2026-03-03 14:23:45,Missing customer contact details,Sales,RevOps,28,Resolved
+RWK-000249,APP-001048,Finance Approval,2026-03-11 15:44:22,Credit information missing,RevOps,Finance,18,Resolved
+RWK-000250,APP-001050,Handoff Acceptance,2026-03-10 09:04:06,Incorrect pricing or contract data,Sales,RevOps,59,Resolved
+RWK-000251,APP-001052,Implementation Setup,2026-04-21 14:19:36,Missing technical specification,Sales,Implementation,62,Resolved
+RWK-000252,APP-001054,Implementation Setup,2026-04-17 15:41:19,Unclear requirements,Sales,Implementation,55,Resolved
+RWK-000253,APP-001062,Implementation Setup,2026-03-13 10:51:40,Unclear requirements,Sales,Implementation,52,Resolved
+RWK-000254,APP-001073,Handoff Acceptance,2026-03-11 10:16:16,Missing required fields,Sales,RevOps,0,Resolved
+RWK-000255,APP-001079,Finance Approval,2026-03-16 09:25:36,Incorrect billing details,RevOps,Finance,20,Resolved
+RWK-000256,APP-001083,Contract & Legal Review,2026-03-19 12:31:16,Missing signed contract documents,Sales,Legal,65,Resolved
+RWK-000257,APP-001084,Finance Approval,2026-03-13 14:16:15,Incorrect billing details,RevOps,Finance,22,Resolved
+RWK-000258,APP-001085,Handoff Acceptance,2026-03-13 11:18:19,Missing required fields,Sales,RevOps,106,Resolved
+RWK-000259,APP-001086,Finance Approval,2026-03-13 17:04:08,Credit information missing,RevOps,Finance,50,Resolved
+RWK-000260,APP-001097,Finance Approval,2026-03-19 10:33:08,Credit information missing,Sales,Finance,0,Resolved
+RWK-000261,APP-001100,Finance Approval,2026-03-24 13:05:45,Incorrect billing details,RevOps,Finance,102,Invalid
+RWK-000262,APP-001106,Contract & Legal Review,2026-03-12 14:45:20,Non-standard terms not flagged,Sales,Legal,20,Resolved
+RWK-000263,APP-001109,Finance Approval,2026-03-13 16:31:57,Incorrect billing details,Sales,Finance,7,Resolved
+RWK-000264,APP-001112,Contract & Legal Review,2026-03-12 13:42:19,Non-standard terms not flagged,Sales,Legal,24,Resolved
+RWK-000265,APP-001125,Implementation Setup,2026-04-07 10:22:04,Unclear requirements,Sales,Implementation,37,Resolved
+RWK-000266,APP-001130,Finance Approval,2026-04-23 14:24:39,Incorrect billing details,Sales,Finance,67,Resolved
+RWK-000267,APP-001139,Finance Approval,2026-03-19 10:49:57,Incorrect billing details,Sales,Finance,16,Resolved
+RWK-000268,APP-001141,Finance Approval,2026-03-23 14:52:21,Incorrect billing details,RevOps,Finance,121,Resolved
+RWK-000269,APP-001143,Contract & Legal Review,2026-03-24 12:35:32,Missing signed contract documents,Sales,Legal,61,Resolved
+RWK-000270,APP-001145,Handoff Acceptance,2026-03-13 15:31:57,Missing required fields,Sales,RevOps,20,Resolved
+RWK-000271,APP-001149,Handoff Acceptance,2026-03-17 15:32:56,Missing required fields,Sales,RevOps,83,Resolved
+RWK-000272,APP-001157,Handoff Acceptance,2026-03-19 13:09:40,Missing required fields,Sales,RevOps,28,Resolved
+RWK-000273,APP-001158,Implementation Setup,2026-04-13 15:21:45,Unclear requirements,RevOps,Implementation,60,Resolved
+RWK-000274,APP-001165,Contract & Legal Review,2026-03-23 12:49:33,Missing signed contract documents,Sales,Legal,35,Resolved
+RWK-000275,APP-001169,Handoff Acceptance,2026-03-16 16:16:06,Missing customer contact details,Sales,RevOps,33,Resolved
+RWK-000276,APP-001173,Finance Approval,2026-04-28 12:19:10,Credit information missing,RevOps,Finance,53,Resolved
+RWK-000277,APP-001175,Handoff Acceptance,2026-03-17 13:35:56,Missing customer contact details,Sales,RevOps,0,Resolved
+RWK-000278,APP-001175,Implementation Setup,2026-04-14 10:45:29,Missing technical specification,Sales,Implementation,25,Resolved
+RWK-000279,APP-001176,Handoff Acceptance,2026-03-20 14:27:36,Missing required fields,Sales,RevOps,61,Resolved
+RWK-000280,APP-001177,Handoff Acceptance,2026-03-17 11:00:37,Missing required fields,Sales,RevOps,33,Resolved
+RWK-000281,APP-001179,Handoff Acceptance,2026-03-20 14:53:20,Incorrect pricing or contract data,Sales,RevOps,27,Resolved
+RWK-000282,APP-001182,Finance Approval,2026-03-30 11:30:00,Incorrect billing details,Sales,Finance,13,Resolved
+RWK-000283,APP-001184,Handoff Acceptance,2026-03-20 11:36:51,Missing customer contact details,Sales,RevOps,61,Resolved
+RWK-000284,APP-001190,Contract & Legal Review,2026-04-02 11:18:41,Missing signed contract documents,Sales,Legal,49,Resolved
+RWK-000285,APP-001190,Finance Approval,2026-04-20 12:54:09,Incorrect billing details,Sales,Finance,42,Resolved
+RWK-000286,APP-001192,Finance Approval,2026-04-14 11:53:22,Credit information missing,Sales,Finance,187,Resolved
+RWK-000287,APP-001193,Handoff Acceptance,2026-03-19 16:30:59,Missing required fields,Sales,RevOps,33,Resolved
+RWK-000288,APP-001207,Handoff Acceptance,2026-03-25 11:43:18,Missing required fields,Sales,RevOps,54,Resolved
+RWK-000289,APP-001208,Contract & Legal Review,2026-03-26 11:55:39,Non-standard terms not flagged,Sales,Legal,29,Resolved
+RWK-000290,APP-001211,Implementation Setup,2026-04-24 16:14:45,Unclear requirements,Sales,Implementation,96,Resolved
+RWK-000291,APP-001214,Contract & Legal Review,2026-03-25 12:46:24,Missing signed contract documents,Sales,Legal,21,Resolved
+RWK-000292,APP-001218,Handoff Acceptance,2026-03-27 10:50:10,Missing required fields,Sales,RevOps,105,Resolved
+RWK-000293,APP-001224,Finance Approval,2026-04-01 12:59:01,Credit information missing,RevOps,Finance,38,Resolved
+RWK-000294,APP-001237,Finance Approval,2026-03-31 16:40:45,Credit information missing,Sales,Finance,14,Resolved
+RWK-000295,APP-001247,Handoff Acceptance,2026-03-25 10:32:36,Missing customer contact details,Sales,RevOps,24,Resolved
+RWK-000296,APP-001249,Contract & Legal Review,2026-04-21 09:28:42,Missing signed contract documents,Sales,Legal,37,Resolved
+RWK-000297,APP-001252,Handoff Acceptance,2026-03-30 09:45:51,Missing required fields,Sales,RevOps,74,Resolved
+RWK-000298,APP-001261,Contract & Legal Review,2026-03-31 09:14:52,Non-standard terms not flagged,Sales,Legal,14,Resolved
+RWK-000299,APP-001268,Handoff Acceptance,2026-04-02 15:55:42,Missing customer contact details,Sales,RevOps,65,Resolved
+RWK-000300,APP-001271,Handoff Acceptance,2026-03-31 16:11:48,Missing required fields,Sales,RevOps,37,Resolved
+RWK-000301,APP-001275,Handoff Acceptance,2026-04-09 17:32:08,Missing required fields,Sales,RevOps,125,Resolved
+RWK-000302,APP-001275,Finance Approval,2026-05-04 17:01:28,Incorrect billing details,Sales,Finance,42,Resolved
+RWK-000303,APP-001276,Finance Approval,2026-04-17 12:52:18,Incorrect billing details,Sales,Finance,70,Resolved
+RWK-000304,APP-001285,Implementation Setup,2026-04-23 17:32:35,Missing technical specification,RevOps,Implementation,48,Resolved
+RWK-000305,APP-001290,Handoff Acceptance,2026-04-01 15:59:13,Incorrect pricing or contract data,Sales,RevOps,0,Resolved
+RWK-000306,APP-001295,Handoff Acceptance,2026-04-06 10:37:42,Missing customer contact details,Sales,RevOps,35,Resolved
+RWK-000307,APP-001297,Handoff Acceptance,2026-04-02 10:22:46,Missing customer contact details,Sales,RevOps,79,Resolved
+RWK-000308,APP-001298,Handoff Acceptance,2026-04-01 15:37:21,Missing customer contact details,Sales,RevOps,101,Resolved
+RWK-000309,APP-001298,Contract & Legal Review,2026-04-20 14:35:10,Missing signed contract documents,Sales,Legal,51,Resolved
+RWK-000310,APP-001300,Contract & Legal Review,2026-04-16 15:24:24,Missing signed contract documents,Sales,Legal,62,Resolved
+RWK-000311,APP-001311,Handoff Acceptance,2026-04-10 16:29:16,Missing customer contact details,Sales,RevOps,104,Resolved
+RWK-000312,APP-001312,Contract & Legal Review,2026-04-08 09:05:17,Missing signed contract documents,Sales,Legal,20,Resolved
+RWK-000313,APP-001317,Handoff Acceptance,2026-04-02 15:24:43,Missing customer contact details,Sales,RevOps,56,Resolved
+RWK-000314,APP-001319,Contract & Legal Review,2026-04-20 11:28:45,Non-standard terms not flagged,Sales,Legal,39,Resolved
+RWK-000315,APP-001325,Handoff Acceptance,2026-04-07 15:25:41,Missing required fields,Sales,RevOps,53,Resolved
+RWK-000316,APP-001328,Handoff Acceptance,2026-04-09 12:15:15,Incorrect pricing or contract data,Sales,RevOps,20,Resolved
+RWK-000317,APP-001330,Handoff Acceptance,2026-04-06 16:13:00,Incorrect pricing or contract data,Sales,RevOps,76,Resolved
+RWK-000318,APP-001335,Finance Approval,2026-04-16 16:34:35,Incorrect billing details,RevOps,Finance,287,Resolved
+RWK-000319,APP-001343,Finance Approval,2026-05-11 10:30:26,Credit information missing,Sales,Finance,33,Resolved
+RWK-000320,APP-001350,Handoff Acceptance,2026-04-10 10:56:17,Missing required fields,Sales,RevOps,34,Resolved
+RWK-000321,APP-001357,Handoff Acceptance,2026-04-14 17:54:47,Missing required fields,Sales,RevOps,30,Resolved
+RWK-000322,APP-001358,Handoff Acceptance,2026-04-09 13:42:16,Missing required fields,Sales,RevOps,53,Resolved
+RWK-000323,APP-001358,Implementation Setup,2026-04-28 13:40:21,Missing technical specification,Sales,Implementation,46,Resolved
+RWK-000324,APP-001360,Handoff Acceptance,2026-04-10 10:17:29,Incorrect pricing or contract data,Sales,RevOps,55,Resolved
+RWK-000325,APP-001362,Handoff Acceptance,2026-04-13 17:16:16,Missing required fields,Sales,RevOps,48,Resolved
+RWK-000326,APP-001372,Finance Approval,2026-05-07 09:33:50,Credit information missing,RevOps,Finance,0,Resolved
+RWK-000327,APP-001376,Handoff Acceptance,2026-04-22 12:33:58,Missing required fields,Sales,RevOps,50,Resolved
+RWK-000328,APP-001389,Handoff Acceptance,2026-04-14 16:41:26,Missing required fields,Sales,RevOps,36,Resolved
+RWK-000329,APP-001395,Handoff Acceptance,2026-05-04 11:03:07,Incorrect pricing or contract data,Sales,RevOps,4,Resolved
+RWK-000330,APP-001397,Handoff Acceptance,2026-04-15 15:49:37,Missing customer contact details,Sales,RevOps,122,Resolved
+RWK-000331,APP-001398,Contract & Legal Review,2026-04-22 11:51:15,Missing signed contract documents,Sales,Legal,7,Resolved
+RWK-000332,APP-001400,Finance Approval,2026-04-27 17:01:43,Incorrect billing details,RevOps,Finance,22,Resolved
+RWK-000333,APP-001401,Handoff Acceptance,2026-04-16 17:36:05,Missing required fields,Sales,RevOps,44,Resolved
+RWK-000334,APP-001405,Finance Approval,2026-05-08 15:53:32,Incorrect billing details,RevOps,Finance,119,Resolved
+RWK-000335,APP-001409,Contract & Legal Review,2026-04-22 12:38:47,Non-standard terms not flagged,Sales,Legal,127,Resolved
+RWK-000336,APP-001413,Implementation Setup,2026-05-11 16:38:34,Missing technical specification,RevOps,Implementation,34,Resolved
+RWK-000337,APP-001419,Implementation Setup,2026-05-08 16:02:32,Missing technical specification,Sales,Implementation,77,Resolved
+RWK-000338,APP-001429,Finance Approval,2026-04-30 10:03:49,Credit information missing,Sales,Finance,59,Resolved
+RWK-000339,APP-001432,Contract & Legal Review,2026-05-04 12:26:42,Missing signed contract documents,Sales,Legal,20,Resolved
+RWK-000340,APP-001444,Contract & Legal Review,2026-04-29 10:21:30,Missing signed contract documents,Sales,Legal,19,Resolved
+RWK-000341,APP-001447,Handoff Acceptance,2026-04-22 15:43:47,Missing customer contact details,Sales,RevOps,46,Resolved
+RWK-000342,APP-001449,Handoff Acceptance,2026-04-23 15:33:04,Missing customer contact details,Sales,RevOps,14,Resolved
+RWK-000343,APP-001471,Contract & Legal Review,2026-04-28 16:21:49,Non-standard terms not flagged,Sales,Legal,12,Resolved
+RWK-000344,APP-001473,Handoff Acceptance,2026-04-28 15:19:33,Incorrect pricing or contract data,Sales,RevOps,91,Invalid
+RWK-000345,APP-001478,Handoff Acceptance,2026-04-29 15:38:54,Missing required fields,Sales,RevOps,83,Resolved
+RWK-000346,APP-001479,Handoff Acceptance,2026-04-29 12:57:40,Missing required fields,Sales,RevOps,69,Resolved
+RWK-000347,APP-001480,Finance Approval,2026-05-08 12:39:03,Credit information missing,Sales,Finance,24,Resolved
+RWK-000348,APP-001481,Contract & Legal Review,2026-05-15 14:10:20,Missing signed contract documents,Sales,Legal,56,Resolved
+RWK-000349,APP-001481,Finance Approval,2026-05-22 14:09:39,Credit information missing,Sales,Finance,0,Resolved
+RWK-000350,APP-001486,Handoff Acceptance,2026-04-30 12:13:31,Incorrect pricing or contract data,Sales,RevOps,20,Resolved
+RWK-000351,APP-001489,Finance Approval,2026-05-12 12:50:37,Incorrect billing details,RevOps,Finance,38,Resolved
+RWK-000352,APP-001492,Implementation Setup,2026-05-28 15:47:53,Missing technical specification,RevOps,Implementation,63,Resolved
+RWK-000353,APP-001493,Handoff Acceptance,2026-05-05 11:00:35,Missing required fields,Sales,RevOps,57,Resolved
+RWK-000354,APP-001502,Finance Approval,2026-05-08 16:13:46,Credit information missing,Sales,Finance,15,Resolved
+RWK-000355,APP-001504,Handoff Acceptance,2026-05-04 11:08:58,Missing required fields,Sales,RevOps,68,Resolved
+RWK-000356,APP-001510,Handoff Acceptance,2026-05-06 09:42:17,Missing required fields,Sales,RevOps,86,Resolved
+RWK-000357,APP-001514,Implementation Setup,2026-05-26 16:46:56,Unclear requirements,Sales,Implementation,69,Resolved
+RWK-000358,APP-001521,Implementation Setup,2026-06-12 15:45:52,Missing technical specification,RevOps,Implementation,39,Resolved
+RWK-000359,APP-001524,Finance Approval,2026-05-12 17:43:39,Incorrect billing details,RevOps,Finance,127,Resolved
+RWK-000360,APP-001527,Handoff Acceptance,2026-05-07 14:11:05,Incorrect pricing or contract data,Sales,RevOps,101,Resolved
+RWK-000361,APP-001530,Handoff Acceptance,2026-05-07 14:28:59,Incorrect pricing or contract data,Sales,RevOps,64,Resolved
+RWK-000362,APP-001531,Handoff Acceptance,2026-05-08 12:45:05,missing required fields,Sales,RevOps,30,Resolved
+RWK-000363,APP-001540,Contract & Legal Review,2026-05-08 11:30:18,Missing signed contract documents,Sales,Legal,11,Resolved
+RWK-000364,APP-001549,Finance Approval,2026-05-20 10:20:55,Incorrect billing details,RevOps,Finance,70,Resolved
+RWK-000365,APP-001553,Contract & Legal Review,2026-05-22 15:10:48,Non-standard terms not flagged,Sales,Legal,28,Resolved
+RWK-000366,APP-001554,Contract & Legal Review,2026-05-19 11:41:09,Non-standard terms not flagged,Sales,Legal,25,Resolved
+RWK-000367,APP-001557,Handoff Acceptance,2026-05-08 15:58:37,Missing required fields,Sales,RevOps,70,Resolved
+RWK-000368,APP-001557,Implementation Setup,2026-07-02 09:31:10,Missing technical specification,RevOps,Implementation,40,Resolved
+RWK-000369,APP-001558,Finance Approval,2026-05-18 09:02:39,Credit information missing,RevOps,Finance,20,Resolved
+RWK-000370,APP-001561,Implementation Setup,2026-06-09 13:48:34,Missing technical specification,RevOps,Implementation,95,Resolved
+RWK-000371,APP-001562,Contract & Legal Review,2026-05-25 11:27:36,Non-standard terms not flagged,Sales,Legal,128,Resolved
+RWK-000372,APP-001570,Finance Approval,2026-05-18 09:54:34,Incorrect billing details,Sales,Finance,29,Open
+RWK-000373,APP-001572,Finance Approval,2026-05-29 09:51:12,Incorrect billing details,Sales,Finance,66,Resolved
+RWK-000374,APP-001572,Implementation Setup,2026-06-04 17:06:47,Missing technical specification,Sales,Implementation,71,Resolved
+RWK-000375,APP-001577,Handoff Acceptance,2026-05-20 15:51:23,Missing required fields,Sales,RevOps,35,Resolved
+RWK-000376,APP-001584,Handoff Acceptance,2026-05-18 16:40:21,Missing required fields,Sales,RevOps,41,Resolved
+RWK-000377,APP-001584,Finance Approval,2026-06-05 15:48:19,Incorrect billing details,Sales,Finance,14,Resolved
+RWK-000378,APP-001588,Contract & Legal Review,2026-05-26 11:08:10,Missing signed contract documents,Sales,Legal,39,Resolved
+RWK-000379,APP-001592,Finance Approval,2026-05-21 10:22:16,Incorrect billing details,Sales,Finance,16,Resolved
+RWK-000380,APP-001593,Finance Approval,2026-05-27 09:06:58,Incorrect billing details,Sales,Finance,93,Resolved
+RWK-000381,APP-001596,Handoff Acceptance,2026-05-14 16:21:07,Missing required fields,Sales,RevOps,113,Resolved
+RWK-000382,APP-001600,Contract & Legal Review,2026-06-01 13:23:56,Missing signed contract documents,Sales,Legal,0,Resolved
+RWK-000383,APP-001612,Contract & Legal Review,2026-06-11 12:17:15,Non-standard terms not flagged,Sales,Legal,13,Resolved
+RWK-000384,APP-001613,Implementation Setup,2026-06-19 16:40:24,Unclear requirements,RevOps,Implementation,78,Resolved
+RWK-000385,APP-001614,Finance Approval,2026-05-25 11:03:00,Incorrect billing details,Sales,Finance,7,Resolved
+RWK-000386,APP-001616,Finance Approval,2026-05-21 15:04:35,Incorrect billing details,Sales,Finance,11,Resolved
+RWK-000387,APP-001619,Handoff Acceptance,2026-05-20 17:30:34,Missing required fields,Sales,RevOps,48,Resolved
+RWK-000388,APP-001619,Finance Approval,2026-05-29 17:39:06,Incorrect billing details,RevOps,Finance,22,Resolved
+RWK-000389,APP-001623,Handoff Acceptance,2026-05-19 16:06:22,Missing required fields,Sales,RevOps,12,Resolved
+RWK-000390,APP-001627,Handoff Acceptance,2026-05-20 12:22:13,Missing required fields,Sales,RevOps,103,Resolved
+RWK-000391,APP-001629,Finance Approval,2026-05-28 09:46:38,Credit information missing,Sales,Finance,34,Resolved
+RWK-000392,APP-001639,Handoff Acceptance,2026-05-22 10:54:12,Missing required fields,Sales,RevOps,72,Resolved
+RWK-000393,APP-001639,Contract & Legal Review,2026-05-28 09:00:44,Missing signed contract documents,Sales,Legal,43,Resolved
+RWK-000394,APP-001647,Implementation Setup,2026-06-30 15:23:12,Missing technical specification,RevOps,Implementation,65,Resolved
+RWK-000395,APP-001648,Finance Approval,2026-05-26 16:39:23,Incorrect billing details,RevOps,Finance,40,Resolved
+RWK-000396,APP-001653,Handoff Acceptance,2026-05-26 09:33:42,Missing required fields,Sales,RevOps,96,Resolved
+RWK-000397,APP-001655,Contract & Legal Review,2026-05-22 12:44:19,Missing signed contract documents,Sales,Legal,15,Resolved
+RWK-000398,APP-001659,Finance Approval,2026-05-27 17:47:50,Incorrect billing details,Sales,Finance,24,Resolved
+RWK-000399,APP-001661,Contract & Legal Review,2026-06-29 13:18:39,Missing signed contract documents,Sales,Legal,56,Resolved
+RWK-000400,APP-001664,Handoff Acceptance,2026-05-22 10:14:27,Missing customer contact details,Sales,RevOps,169,Resolved
+RWK-000401,APP-001669,Implementation Setup,2026-06-19 15:54:06,Missing technical specification,RevOps,Implementation,143,Resolved
+RWK-000402,APP-001674,Contract & Legal Review,2026-06-02 16:37:22,Missing signed contract documents,Sales,Legal,90,Resolved
+RWK-000403,APP-001675,Handoff Acceptance,2026-05-29 09:29:37,Incorrect pricing or contract data,Sales,RevOps,43,Resolved
+RWK-000404,APP-001684,Handoff Acceptance,2026-05-26 10:43:18,Missing required fields,Sales,RevOps,47,Resolved
+RWK-000405,APP-001685,Handoff Acceptance,2026-05-26 15:56:44,Missing customer contact details,Sales,RevOps,49,Resolved
+RWK-000406,APP-001685,Finance Approval,2026-06-10 13:43:29,Incorrect billing details,RevOps,Finance,26,Resolved
+RWK-000407,APP-001691,Handoff Acceptance,2026-05-27 15:19:35,Missing customer contact details,Sales,RevOps,25,Resolved
+RWK-000408,APP-001694,Handoff Acceptance,2026-06-01 10:39:51,missing required fields,Sales,RevOps,46,Resolved
+RWK-000409,APP-001697,Finance Approval,2026-06-04 09:33:03,Incorrect billing details,RevOps,Finance,20,Resolved
+RWK-000410,APP-001698,Handoff Acceptance,2026-05-28 11:30:59,Missing required fields,Sales,RevOps,54,Resolved
+RWK-000411,APP-001699,Handoff Acceptance,2026-05-28 09:40:23,Missing required fields,Sales,RevOps,26,Resolved
+RWK-000412,APP-001703,Finance Approval,2026-06-02 14:51:19,incorrect billing details,Sales,Finance,25,Resolved
+RWK-000413,APP-001704,Handoff Acceptance,2026-05-29 11:54:55,Missing required fields,Sales,RevOps,27,Resolved
+RWK-000414,APP-001707,Finance Approval,2026-06-16 12:44:24,Incorrect billing details,Sales,Finance,21,Resolved
+RWK-000415,APP-001709,Contract & Legal Review,2026-06-08 12:31:35,Non-standard terms not flagged,Sales,Legal,158,Resolved
+RWK-000416,APP-001720,Handoff Acceptance,2026-06-01 10:35:41,Missing customer contact details,Sales,RevOps,28,Resolved
+RWK-000417,APP-001726,Handoff Acceptance,2026-06-03 11:37:40,Missing required fields,Sales,RevOps,46,Resolved
+RWK-000418,APP-001741,Contract & Legal Review,2026-06-05 12:13:09,Non-standard terms not flagged,Sales,Legal,43,Resolved
+RWK-000419,APP-001742,Contract & Legal Review,2026-06-10 11:34:53,Non-standard terms not flagged,Sales,Legal,65,Resolved
+RWK-000420,APP-001743,Handoff Acceptance,2026-06-04 10:38:00,Missing required fields,Sales,RevOps,48,Resolved
+RWK-000421,APP-001745,Handoff Acceptance,2026-06-03 10:18:49,Missing required fields,Sales,RevOps,45,Resolved
+RWK-000422,APP-001747,Contract & Legal Review,2026-06-09 11:20:08,Non-standard terms not flagged,Sales,Legal,28,Resolved
+RWK-000423,APP-001748,Finance Approval,2026-06-18 11:28:31,Incorrect billing details,RevOps,Finance,16,Resolved
+RWK-000424,APP-001751,Contract & Legal Review,2026-06-10 15:06:36,Non-standard terms not flagged,Sales,Legal,27,Resolved
+RWK-000425,APP-001751,Finance Approval,2026-06-26 16:36:04,Credit information missing,RevOps,Finance,11,Invalid
+RWK-000426,APP-001756,Finance Approval,2026-06-11 11:16:26,Credit information missing,Sales,Finance,50,Resolved
+RWK-000427,APP-001759,Handoff Acceptance,2026-06-05 14:38:35,Missing required fields,Sales,RevOps,153,Resolved
+RWK-000428,APP-001760,Contract & Legal Review,2026-06-15 17:48:17,Non-standard terms not flagged,Sales,Legal,75,Resolved
+RWK-000429,APP-001768,Handoff Acceptance,2026-06-10 12:13:08,Missing customer contact details,Sales,RevOps,39,Resolved
+RWK-000430,APP-001770,Finance Approval,2026-06-23 10:13:25,Incorrect billing details,Sales,Finance,82,Resolved
+RWK-000431,APP-001772,Handoff Acceptance,2026-06-05 10:15:09,Missing required fields,Sales,RevOps,74,Resolved
+RWK-000432,APP-001780,Handoff Acceptance,2026-06-25 10:18:20,Missing required fields,Sales,RevOps,60,Resolved
+RWK-000433,APP-001783,Contract & Legal Review,2026-06-15 13:52:49,Missing signed contract documents,Sales,Legal,43,Resolved
+RWK-000434,APP-001785,Contract & Legal Review,2026-06-16 13:32:19,Missing signed contract documents,Sales,Legal,13,Resolved
+RWK-000435,APP-001797,Handoff Acceptance,2026-06-09 16:03:32,Incorrect pricing or contract data,Sales,RevOps,24,Resolved
+RWK-000436,APP-001798,Finance Approval,2026-07-03 14:24:49,Incorrect billing details,RevOps,Finance,89,Invalid
+RWK-000437,APP-001798,Implementation Setup,2026-07-27 16:15:39,Missing technical specification,Sales,Implementation,94,Resolved
+RWK-000438,APP-001801,Handoff Acceptance,2026-06-10 14:17:14,Missing customer contact details,Sales,RevOps,32,Resolved
+RWK-000439,APP-001813,Finance Approval,2026-06-19 16:07:04,Incorrect billing details,RevOps,Finance,24,Resolved
+RWK-000440,APP-001826,Handoff Acceptance,2026-06-16 14:03:34,Missing required fields,Sales,RevOps,26,Resolved
+RWK-000441,APP-001831,Handoff Acceptance,2026-06-17 14:09:12,Missing required fields,Sales,RevOps,68,Resolved
+RWK-000442,APP-001832,Finance Approval,2026-06-30 15:39:56,Credit information missing,RevOps,Finance,0,Resolved
+RWK-000443,APP-001838,Handoff Acceptance,2026-06-16 17:35:49,Missing required fields,Sales,RevOps,35,Resolved
+RWK-000444,APP-001839,Handoff Acceptance,2026-06-16 16:47:12,Missing required fields,Sales,RevOps,81,Resolved
+RWK-000445,APP-001840,Contract & Legal Review,2026-06-18 16:02:29,Missing signed contract documents,Sales,Legal,37,Resolved
+RWK-000446,APP-001840,Finance Approval,2026-06-25 15:59:53,Incorrect billing details,RevOps,Finance,70,Resolved
+RWK-000447,APP-001841,Finance Approval,2026-06-25 11:26:32,Credit information missing,Sales,Finance,67,Resolved
+RWK-000448,APP-001842,Handoff Acceptance,2026-06-16 10:48:02,Incorrect pricing or contract data,Sales,RevOps,37,Resolved
+RWK-000449,APP-001851,Handoff Acceptance,2026-06-29 12:00:34,Missing customer contact details,Sales,RevOps,10,Resolved
+RWK-000450,APP-001852,Handoff Acceptance,2026-06-24 10:59:14,Missing required fields,Sales,RevOps,56,Invalid
+RWK-000451,APP-001852,Implementation Setup,2026-08-03 09:02:25,Unclear requirements,Sales,Implementation,318,Resolved
+RWK-000452,APP-001855,Handoff Acceptance,2026-06-17 17:54:50,Missing customer contact details,Sales,RevOps,18,Resolved
+RWK-000453,APP-001856,Handoff Acceptance,2026-06-19 14:22:14,Missing required fields,Sales,RevOps,54,Resolved
+RWK-000454,APP-001857,Handoff Acceptance,2026-06-23 11:02:05,Missing customer contact details,Sales,RevOps,52,Resolved
+RWK-000455,APP-001858,Handoff Acceptance,2026-06-18 13:08:29,Missing customer contact details,Sales,RevOps,48,Resolved
+RWK-000456,APP-001862,Contract & Legal Review,2026-06-25 13:15:21,Missing signed contract documents,Sales,Legal,10,Resolved
+RWK-000457,APP-001862,Finance Approval,2026-07-01 13:17:09,Credit information missing,RevOps,Finance,30,Resolved
+RWK-000458,APP-001866,Finance Approval,2026-07-06 16:10:36,Incorrect billing details,Sales,Finance,17,Resolved
+RWK-000459,APP-001875,Handoff Acceptance,2026-06-23 14:51:20,Incorrect pricing or contract data,Sales,RevOps,64,Resolved
+RWK-000460,APP-001882,Contract & Legal Review,2026-06-25 09:16:41,Missing signed contract documents,Sales,Legal,22,Resolved
+RWK-000461,APP-001887,Contract & Legal Review,2026-08-12 09:12:29,Non-standard terms not flagged,Sales,Legal,65,Resolved
+RWK-000462,APP-001891,Handoff Acceptance,2026-06-24 10:49:18,Missing required fields,Sales,RevOps,33,Resolved
+RWK-000463,APP-001892,Handoff Acceptance,2026-06-29 09:31:32,missing required fields,Sales,RevOps,49,Open
+RWK-000464,APP-001896,Handoff Acceptance,2026-06-25 16:26:03,Missing customer contact details,Sales,RevOps,34,Resolved
+RWK-000465,APP-001896,Contract & Legal Review,2026-07-10 11:56:46,Missing signed contract documents,Sales,Legal,29,Resolved
+RWK-000466,APP-001902,Finance Approval,2026-07-06 12:39:23,Incorrect billing details,Sales,Finance,16,Resolved
+RWK-000467,APP-001904,Finance Approval,2026-07-06 16:30:57,Incorrect billing details,RevOps,Finance,31,Resolved
+RWK-000468,APP-001919,Handoff Acceptance,2026-06-26 16:37:17,Missing required fields,Sales,RevOps,81,Resolved
+RWK-000469,APP-001920,Finance Approval,2026-07-06 10:08:21,Credit information missing,RevOps,Finance,35,Resolved
+RWK-000470,APP-001930,Finance Approval,2026-07-23 10:01:53,Credit information missing,RevOps,Finance,41,Resolved
+RWK-000471,APP-001932,Finance Approval,2026-07-07 09:17:01,Credit information missing,Sales,Finance,40,Invalid
+RWK-000472,APP-001936,Implementation Setup,2026-07-15 14:14:13,Missing technical specification,Sales,Implementation,78,Resolved
+RWK-000473,APP-001941,Contract & Legal Review,2026-07-01 16:21:45,Non-standard terms not flagged,Sales,Legal,13,Resolved
+RWK-000474,APP-001949,Finance Approval,2026-07-09 11:21:43,Credit information missing,Sales,Finance,24,Resolved
+RWK-000475,APP-001955,Handoff Acceptance,2026-07-02 11:43:24,Incorrect pricing or contract data,Sales,RevOps,46,Resolved
+RWK-000476,APP-001960,Handoff Acceptance,2026-07-03 10:44:45,Incorrect pricing or contract data,Sales,RevOps,61,Resolved
+RWK-000477,APP-001960,Implementation Setup,2026-07-24 16:57:41,Missing technical specification,Sales,Implementation,147,Resolved
+RWK-000478,APP-001963,Finance Approval,2026-07-17 16:30:45,Credit information missing,RevOps,Finance,44,Resolved
+RWK-000479,APP-001967,Contract & Legal Review,2026-07-03 13:13:27,Missing signed contract documents,Sales,Legal,0,Resolved
+RWK-000480,APP-001969,Handoff Acceptance,2026-07-09 14:54:30,Missing required fields,Sales,RevOps,0,Resolved
+RWK-000481,APP-001973,Finance Approval,2026-07-20 12:08:40,Credit information missing,RevOps,Finance,70,Resolved
+RWK-000482,APP-001984,Handoff Acceptance,2026-07-08 14:02:44,Missing required fields,Sales,RevOps,84,Resolved
+RWK-000483,APP-001984,Implementation Setup,2026-09-04 10:43:18,Unclear requirements,RevOps,Implementation,84,Resolved
+RWK-000484,APP-001986,Handoff Acceptance,2026-07-10 17:21:16,Missing customer contact details,Sales,RevOps,40,Resolved
+RWK-000485,APP-001991,Handoff Acceptance,2026-07-07 12:15:15,Missing customer contact details,Sales,RevOps,62,Resolved
+RWK-000486,APP-001999,Contract & Legal Review,2026-07-15 17:55:37,Non-standard terms not flagged,Sales,Legal,108,Resolved
+RWK-000487,APP-002001,Handoff Acceptance,2026-07-09 16:15:03,Missing customer contact details,Sales,RevOps,148,Resolved
+RWK-000488,APP-002005,Contract & Legal Review,2026-07-15 09:11:21,Missing signed contract documents,Sales,Legal,102,Resolved
+RWK-000489,APP-002008,Finance Approval,2026-08-18 11:34:29,Credit information missing,Sales,Finance,65,Resolved
+RWK-000490,APP-002010,Contract & Legal Review,2026-07-17 13:35:06,Missing signed contract documents,Sales,Legal,61,Resolved
+RWK-000491,APP-002017,Handoff Acceptance,2026-07-10 16:54:46,Missing required fields,Sales,RevOps,56,Resolved
+RWK-000492,APP-002022,Handoff Acceptance,2026-07-09 13:46:43,Missing customer contact details,Sales,RevOps,87,Resolved
+RWK-000493,APP-002026,Implementation Setup,2026-08-11 12:36:34,Missing technical specification,RevOps,Implementation,72,Resolved
+RWK-000494,APP-002040,Handoff Acceptance,2026-07-20 11:19:30,Missing required fields,Sales,RevOps,27,Resolved
+RWK-000495,APP-002047,Handoff Acceptance,2026-08-06 11:40:52,Missing required fields,Sales,RevOps,83,Resolved
+RWK-000496,APP-002050,Handoff Acceptance,2026-07-16 13:25:06,Missing required fields,Sales,RevOps,18,Resolved
+RWK-000497,APP-002084,Handoff Acceptance,2026-07-21 17:21:45,Missing customer contact details,Sales,RevOps,5,Resolved
+RWK-000498,APP-002089,Contract & Legal Review,2026-07-22 12:24:17,Missing signed contract documents,Sales,Legal,12,Resolved
+RWK-000499,APP-002095,Handoff Acceptance,2026-07-27 13:07:16,Missing required fields,Sales,RevOps,54,Resolved
+RWK-000500,APP-002097,Contract & Legal Review,2026-07-27 15:44:41,Non-standard terms not flagged,Sales,Legal,18,Resolved
+RWK-000501,APP-002102,Handoff Acceptance,2026-07-21 13:20:48,Missing required fields,Sales,RevOps,12,Resolved
+RWK-000502,APP-002103,Contract & Legal Review,2026-08-06 10:55:05,Missing signed contract documents,Sales,Legal,22,Resolved
+RWK-000503,APP-002109,Contract & Legal Review,2026-07-28 16:27:47,Missing signed contract documents,Sales,Legal,103,Resolved
+RWK-000504,APP-002116,Handoff Acceptance,2026-07-22 11:57:09,Missing required fields,Sales,RevOps,73,Resolved
+RWK-000505,APP-002121,Handoff Acceptance,2026-07-22 13:51:33,Incorrect pricing or contract data,Sales,RevOps,36,Resolved
+RWK-000506,APP-002124,Finance Approval,2026-08-03 17:54:54,Incorrect billing details,Sales,Finance,91,Resolved
+RWK-000507,APP-002127,Implementation Setup,2026-08-17 17:39:45,Unclear requirements,RevOps,Implementation,89,Resolved
+RWK-000508,APP-002128,Handoff Acceptance,2026-07-27 16:24:29,Missing required fields,Sales,RevOps,46,Resolved
+RWK-000509,APP-002128,Implementation Setup,2026-09-21 16:25:53,Unclear requirements,RevOps,Implementation,97,Resolved
+RWK-000510,APP-002130,Handoff Acceptance,2026-08-04 12:15:40,Incorrect pricing or contract data,Sales,RevOps,9,Resolved
+RWK-000511,APP-002134,Implementation Setup,2026-09-02 09:28:28,Missing technical specification,Sales,Implementation,107,Resolved
+RWK-000512,APP-002147,Implementation Setup,2026-08-27 09:58:14,Unclear requirements,RevOps,Implementation,90,Invalid
+RWK-000513,APP-002154,Handoff Acceptance,2026-07-28 11:17:05,Missing required fields,Sales,RevOps,36,Resolved
+RWK-000514,APP-002169,Contract & Legal Review,2026-08-07 09:45:35,Non-standard terms not flagged,Sales,Legal,128,Resolved
+RWK-000515,APP-002171,Contract & Legal Review,2026-08-04 17:32:23,Non-standard terms not flagged,Sales,Legal,24,Resolved
+RWK-000516,APP-002182,Contract & Legal Review,2026-08-19 10:06:55,Missing signed contract documents,Sales,Legal,30,Invalid
+RWK-000517,APP-002184,Handoff Acceptance,2026-07-31 11:37:27,Missing required fields,Sales,RevOps,45,Resolved
+RWK-000518,APP-002184,Contract & Legal Review,2026-08-05 13:09:26,Non-standard terms not flagged,Sales,Legal,34,Resolved
+RWK-000519,APP-002212,Handoff Acceptance,2026-08-04 17:55:15,Missing required fields,Sales,RevOps,65,Resolved
+RWK-000520,APP-002218,Contract & Legal Review,2026-08-25 10:36:59,Missing signed contract documents,Sales,Legal,76,Resolved
+RWK-000521,APP-002218,Finance Approval,2026-09-03 11:19:41,Incorrect billing details,Sales,Finance,11,Resolved
+RWK-000522,APP-002221,Handoff Acceptance,2026-08-06 14:44:53,Missing required fields,Sales,RevOps,81,Resolved
+RWK-000523,APP-002222,Contract & Legal Review,2026-08-19 09:35:43,Missing signed contract documents,Sales,Legal,52,Resolved
+RWK-000524,APP-002228,Handoff Acceptance,2026-08-11 10:57:23,Missing customer contact details,Sales,RevOps,30,Resolved
+RWK-000525,APP-002229,Implementation Setup,2026-09-01 15:48:52,Missing technical specification,RevOps,Implementation,109,Resolved
+RWK-000526,APP-002234,Contract & Legal Review,2026-08-10 11:19:55,Non-standard terms not flagged,Sales,Legal,30,Resolved
+RWK-000527,APP-002241,Handoff Acceptance,2026-08-19 13:48:03,Missing required fields,Sales,RevOps,26,Resolved
+RWK-000528,APP-002242,Handoff Acceptance,2026-08-11 17:18:42,Missing customer contact details,Sales,RevOps,88,Resolved
+RWK-000529,APP-002251,Contract & Legal Review,2026-08-17 15:19:01,Missing signed contract documents,Sales,Legal,31,Resolved
+RWK-000530,APP-002254,Implementation Setup,2026-08-31 10:27:03,Missing technical specification,RevOps,Implementation,33,Resolved
+RWK-000531,APP-002259,Finance Approval,2026-08-20 13:30:18,Credit information missing,Sales,Finance,245,Resolved
+RWK-000532,APP-002261,Handoff Acceptance,2026-08-10 12:27:13,Missing required fields,Sales,RevOps,27,Resolved
+RWK-000533,APP-002274,Handoff Acceptance,2026-08-17 10:11:04,Missing customer contact details,Sales,RevOps,34,Resolved
+RWK-000534,APP-002277,Contract & Legal Review,2026-09-10 12:32:15,Missing signed contract documents,Sales,Legal,59,Resolved
+RWK-000535,APP-002284,Finance Approval,2026-08-24 16:14:56,Incorrect billing details,RevOps,Finance,30,Resolved
+RWK-000536,APP-002291,Contract & Legal Review,2026-08-24 10:28:49,Non-standard terms not flagged,Sales,Legal,8,Resolved
+RWK-000537,APP-002298,Finance Approval,2026-08-24 16:49:45,Credit information missing,Sales,Finance,82,Resolved
+RWK-000538,APP-002302,Handoff Acceptance,2026-08-17 15:28:35,Incorrect pricing or contract data,Sales,RevOps,50,Resolved
+RWK-000539,APP-002306,Handoff Acceptance,2026-08-18 15:06:59,Missing required fields,Sales,RevOps,58,Resolved
+RWK-000540,APP-002309,Finance Approval,2026-09-04 17:23:31,Incorrect billing details,Sales,Finance,37,Resolved
+RWK-000541,APP-002314,Handoff Acceptance,2026-08-19 12:20:16,Missing required fields,Sales,RevOps,54,Resolved
+RWK-000542,APP-002315,Handoff Acceptance,2026-08-18 13:05:45,Incorrect pricing or contract data,Sales,RevOps,24,Resolved
+RWK-000543,APP-002316,Finance Approval,2026-08-24 11:45:25,Credit information missing,RevOps,Finance,39,Resolved
+RWK-000544,APP-002317,Implementation Setup,2026-08-27 17:07:35,Missing technical specification,Sales,Implementation,42,Resolved
+RWK-000545,APP-002333,Finance Approval,2026-09-03 10:24:21,Incorrect billing details,Sales,Finance,10,Resolved
+RWK-000546,APP-002335,Contract & Legal Review,2026-08-21 15:11:17,Non-standard terms not flagged,Sales,Legal,0,Resolved
+RWK-000547,APP-002335,Implementation Setup,2026-09-09 16:35:34,Missing technical specification,Sales,Implementation,37,Resolved
+RWK-000548,APP-002343,Handoff Acceptance,2026-08-27 13:55:55,Missing required fields,Sales,RevOps,17,Resolved
+RWK-000549,APP-002353,Handoff Acceptance,2026-08-24 17:24:42,Missing required fields,Sales,RevOps,157,Resolved
+RWK-000550,APP-002370,Contract & Legal Review,2026-08-25 16:16:26,Missing signed contract documents,Sales,Legal,32,Resolved
+RWK-000551,APP-002383,Handoff Acceptance,2026-08-27 11:48:40,Missing required fields,Sales,RevOps,26,Resolved
+RWK-000552,APP-002386,Contract & Legal Review,2026-09-09 13:28:01,Missing signed contract documents,Sales,Legal,79,Resolved
+RWK-000553,APP-002390,Handoff Acceptance,2026-08-27 10:24:31,Missing customer contact details,Sales,RevOps,16,Resolved
+RWK-000554,APP-002398,Finance Approval,2026-09-10 10:01:55,Incorrect billing details,Sales,Finance,25,Resolved
+RWK-000555,APP-002402,Contract & Legal Review,2026-09-04 13:03:20,Missing signed contract documents,Sales,Legal,21,Open
+RWK-000556,APP-002409,Finance Approval,2026-09-09 12:13:54,Credit information missing,Sales,Finance,28,Resolved
+RWK-000557,APP-002418,Contract & Legal Review,2026-09-07 13:42:29,Non-standard terms not flagged,Sales,Legal,104,Open
+RWK-000558,APP-002420,Finance Approval,2026-09-21 13:59:38,Credit information missing,Sales,Finance,127,Resolved
+RWK-000559,APP-002422,Handoff Acceptance,2026-08-31 15:35:29,Missing required fields,Sales,RevOps,64,Resolved
+RWK-000560,APP-002425,Finance Approval,2026-09-17 17:05:41,Credit information missing,Sales,Finance,21,Resolved
+RWK-000561,APP-002430,Handoff Acceptance,2026-08-31 16:22:36,Missing customer contact details,Sales,RevOps,90,Resolved
+RWK-000562,APP-002434,Handoff Acceptance,2026-09-04 12:53:41,Incorrect pricing or contract data,Sales,RevOps,23,Resolved
+RWK-000563,APP-002439,Contract & Legal Review,2026-09-04 12:48:07,Missing signed contract documents,Sales,Legal,8,Resolved
+RWK-000564,APP-002448,Handoff Acceptance,2026-09-02 17:23:01,Incorrect pricing or contract data,Sales,RevOps,63,Resolved
+RWK-000565,APP-002456,Handoff Acceptance,2026-09-03 13:36:45,Missing required fields,Sales,RevOps,71,Resolved
+RWK-000566,APP-002465,Handoff Acceptance,2026-09-03 15:07:27,Incorrect pricing or contract data,Sales,RevOps,36,Resolved
+RWK-000567,APP-002468,Handoff Acceptance,2026-09-03 12:10:04,Incorrect pricing or contract data,Sales,RevOps,9,Resolved
+RWK-000568,APP-002475,Handoff Acceptance,2026-09-09 09:25:44,Missing required fields,Sales,RevOps,46,Resolved
+RWK-000569,APP-002478,Handoff Acceptance,2026-09-04 16:17:40,Missing required fields,Sales,RevOps,59,Resolved
+RWK-000570,APP-002481,Handoff Acceptance,2026-09-08 16:29:52,Missing required fields,Sales,RevOps,54,Resolved
+RWK-000571,APP-002488,Handoff Acceptance,2026-09-07 13:19:34,Incorrect pricing or contract data,Sales,RevOps,24,Resolved
+RWK-000572,APP-002503,Handoff Acceptance,2026-09-11 12:39:23,Incorrect pricing or contract data,Sales,RevOps,84,Resolved
+RWK-000573,APP-002510,Handoff Acceptance,2026-09-08 14:10:45,Missing required fields,Sales,RevOps,38,Resolved
+RWK-000574,APP-002511,Handoff Acceptance,2026-09-09 10:41:33,Incorrect pricing or contract data,Sales,RevOps,54,Resolved
+RWK-000575,APP-002512,Finance Approval,2026-09-29 16:11:14,Incorrect billing details,RevOps,Finance,11,Open
+RWK-000576,APP-002532,Contract & Legal Review,2026-09-22 11:27:53,Missing signed contract documents,Sales,Legal,74,Resolved
+RWK-000577,APP-002537,Contract & Legal Review,2026-09-24 09:00:44,Missing signed contract documents,Sales,Legal,182,Open
+RWK-000578,APP-002538,Contract & Legal Review,2026-09-15 15:12:44,Missing signed contract documents,Sales,Legal,14,Resolved
+RWK-000579,APP-002548,Contract & Legal Review,2026-09-18 16:00:16,Missing signed contract documents,Sales,Legal,59,Resolved
+RWK-000580,APP-002554,Contract & Legal Review,2026-09-17 09:28:09,Non-standard terms not flagged,Sales,Legal,14,Resolved
+RWK-000581,APP-002558,Contract & Legal Review,2026-09-22 11:44:56,Missing signed contract documents,Sales,Legal,18,Resolved
+RWK-000582,APP-002567,Handoff Acceptance,2026-09-16 13:08:23,Missing customer contact details,Sales,RevOps,77,Resolved
+RWK-000583,APP-002576,Handoff Acceptance,2026-09-16 16:31:08,Missing required fields,Sales,RevOps,56,Resolved
+RWK-000584,APP-002579,Handoff Acceptance,2026-09-17 10:26:08,Missing required fields,Sales,RevOps,55,Resolved
+RWK-000585,APP-002595,Handoff Acceptance,2026-09-22 13:32:38,Missing required fields,Sales,RevOps,73,Resolved
+RWK-000586,APP-002605,Handoff Acceptance,2026-09-21 12:01:16,Incorrect pricing or contract data,Sales,RevOps,51,Resolved
+RWK-000587,APP-002614,Contract & Legal Review,2026-09-25 13:07:09,Missing signed contract documents,Sales,Legal,21,Resolved
+RWK-000588,APP-002622,Contract & Legal Review,2026-09-24 14:37:32,Non-standard terms not flagged,Sales,Legal,120,Open
+RWK-000589,APP-002627,Handoff Acceptance,2026-09-24 17:13:41,Missing required fields,Sales,RevOps,21,Resolved
+RWK-000590,APP-002638,Contract & Legal Review,2026-09-30 17:34:25,Missing signed contract documents,Sales,Legal,34,Open
+RWK-000591,APP-002642,Handoff Acceptance,2026-09-25 16:49:56,Missing required fields,Sales,RevOps,81,Resolved
+RWK-000592,APP-002644,Handoff Acceptance,2026-09-25 16:30:48,Missing required fields,Sales,RevOps,51,Resolved
+RWK-000593,APP-002646,Handoff Acceptance,2026-09-25 13:15:30,Incorrect pricing or contract data,Sales,RevOps,48,Resolved
+RWK-000594,APP-002647,Handoff Acceptance,2026-09-25 13:29:59,Missing required fields,Sales,RevOps,73,Resolved
+RWK-000595,APP-002648,Handoff Acceptance,2026-09-28 13:48:35,Missing customer contact details,Sales,RevOps,49,Resolved
+RWK-000596,APP-002656,Handoff Acceptance,2026-09-29 16:50:35,Missing required fields,Sales,RevOps,51,Resolved
+RWK-000597,APP-002662,Handoff Acceptance,2026-09-28 09:23:53,Missing customer contact details,Sales,RevOps,32,Resolved
+RWK-000598,APP-002673,Handoff Acceptance,2026-09-28 14:51:34,Missing required fields,Sales,RevOps,17,Resolved
+RWK-000599,APP-002691,Handoff Acceptance,2026-09-30 11:05:48,Missing required fields,Sales,RevOps,53,Open
+RWK-000600,APP-002693,Handoff Acceptance,2026-09-30 15:10:04,missing required fields,Sales,RevOps,43,Open
+RWK-000601,APP-002694,Handoff Acceptance,2026-09-30 13:51:30,Missing required fields,Sales,RevOps,80,Open
+RWK-000602,APP-999001,Handoff Acceptance,2025-09-15 11:50:10,Missing customer contact details,Sales,RevOps,54,Resolved
+RWK-000603,APP-999002,Handoff Acceptance,2025-10-14 14:17:13,Incorrect pricing or contract data,Sales,RevOps,77,Resolved
+RWK-000604,APP-999003,Contract & Legal Review,2025-11-05 15:20:46,Non-standard terms not flagged,Sales,Legal,8,Resolved

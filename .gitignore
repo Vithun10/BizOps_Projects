@@ -1,0 +1,42 @@
+
+@'
+# Top level: push only these projects and the root files
+/*
+!/Flow/
+!/Triage/
+!/README.md
+!/.gitignore
+
+# Power BI report files
+*.pbix
+*.pbit
+
+# OS and editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Office temporary files
+~$*
+*.tmp
+*.bak
+.~lock.*
+
+# Local tool settings and secrets
+.dbeaver/
+.env
+*.env
+credentials*
+*.log
+
+# Word documents - ignore DOCX files
+*.docx
+'@ | Set-Content -Path ".gitignore" -Encoding ascii

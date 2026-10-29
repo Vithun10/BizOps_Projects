@@ -1,0 +1,56 @@
+FLOW - generation summary (synthetic data)
+seed = 20261013
+
+ROW COUNTS
+  applications     2,711
+  stage_history   18,332
+  tasks           21,363
+  owners              31
+  rework_events      604
+  calendar           426
+
+PRIMARY KEY UNIQUENESS
+  applications  PASS
+  stage_history PASS
+  tasks         PASS
+  owners        PASS
+  rework_events PASS
+  calendar      PASS
+
+FOREIGN KEYS (rows failing; planted orphans are expected in rework_events)
+  stage_history.application_id -> applications : 0
+  tasks.application_id -> applications : 0
+  rework_events.application_id -> applications : 3
+  stage_history.owner_id -> owners : 0
+  tasks.owner_id -> owners : 0
+
+MONTHLY RECONCILIATION  (opening + received - completed - cancelled = closing)
+  month     opening received completed cancelled closing  check
+  2025-10       203      158       136        16     209  PASS
+  2025-11       209      183       139        11     242  PASS
+  2025-12       242      179       174        18     229  PASS
+  2026-01       229      159       152        13     223  PASS
+  2026-02       223      177       144        11     245  PASS
+  2026-03       245      258       183        17     303  PASS
+  2026-04       303      198       205        16     280  PASS
+  2026-05       280      224       183        20     301  PASS
+  2026-06       301      222       204        15     304  PASS
+  2026-07       304      246       226        20     304  PASS
+  2026-08       304      240       223        12     309  PASS
+  2026-09       309      264       198        15     360  PASS
+  overall: PASS
+
+INJECTED DATA-QUALITY PROBLEMS (answer key: your Phase 3 profiling should find these)
+     55  stage_history: exited_at earlier than entered_at (swapped)
+     91  stage_history: missing owner_id on a worked stage
+     55  stage_history: duplicate-looking rows (new stage_event_id, same content)
+      6  applications: invalid status 'Complete' / 'completed'
+      6  applications: Completed but completed_at missing
+      2  applications: invalid status 'Canceled'
+      5  applications: completed_at earlier than final stage exit (impossible sequence)
+    214  tasks: completed task with missing assigned_at
+    107  tasks: due_at earlier than created_at
+     12  rework_events: reason_code in inconsistent case
+     18  rework_events: estimated_minutes = 0
+     12  rework_events: resolution_status = Invalid
+      3  rework_events: orphan application_id (not in applications)

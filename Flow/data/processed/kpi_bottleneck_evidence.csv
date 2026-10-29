@@ -1,0 +1,8 @@
+"stage_no","stage_name","stage_team","mean_elapsed_days","mean_queue_days","p90_queue_days","queue_change_days","queued_now","net_accumulation_last_3m","return_rate_pct","r_mean_queue","r_p90_queue","r_queue_change","r_queued_now","r_accumulation","r_return_rate","rank_by_elapsed_only","composite_rank_score","bottleneck_rank"
+4,Finance Approval,Finance,5.45,1.43,4.01,2.99,52,25,2.6,1,1,1,1,1,4,4,1.50,1
+3,Contract & Legal Review,Legal,9.26,0.16,0.68,0.16,7,20,2.7,2,2,2,2,2,3,2,2.17,2
+5,Implementation Setup,Implementation,12.58,0.03,0.04,0.02,0,-3,2.8,3,3,3,3,7,2,1,3.50,3
+2,Handoff Acceptance,RevOps,0.61,0.01,0.02,0.02,0,2,6.7,5,5,3,3,5,1,7,3.67,4
+6,Go-live Readiness,Implementation,6.81,0.03,0.04,-0.02,0,7,0.0,3,3,7,3,3,5,3,4.00,5
+1,Intake & Submission,Sales,4.11,0.00,0.00,0.00,0,7,0.0,6,6,5,3,3,5,5,4.67,6
+7,Activation Handoff,Customer Success,1.74,0.00,0.00,-0.01,0,-2,0.0,6,6,6,3,6,5,6,5.33,7

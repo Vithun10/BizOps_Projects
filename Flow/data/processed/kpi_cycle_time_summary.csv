@@ -1,0 +1,22 @@
+"dim","val","completed_cases","mean_cal_days","median_cal_days","p90_cal_days","mean_working_days","median_working_days","p90_working_days","sla_attainment_pct"
+Application type,Custom Integration,394,52.1,47.9,80.2,36.1,33.0,56,26.4
+Application type,Enterprise Multi-Entity,235,55.2,51.1,85.0,38.2,36.0,59,21.3
+Application type,Pilot-to-Paid,170,33.2,29.7,48.1,23.0,20.0,34,66.5
+Application type,Reseller/Partner,301,39.1,34.3,62.8,27.1,24.0,44,51.2
+Application type,Standard Subscription,1062,35.1,32.0,52.3,24.3,22.0,36,60.5
+Completion month,"2025-10",136,36.9,35.0,55.9,24.9,23.0,38,50.7
+Completion month,"2025-11",139,40.4,35.2,70.2,27.7,24.0,48,49.6
+Completion month,"2025-12",174,38.4,33.1,67.8,26.9,23.0,47,55.7
+Completion month,"2026-01",151,43.5,36.9,75.9,29.0,24.0,52,45.7
+Completion month,"2026-02",144,43.4,35.9,75.8,29.5,24.5,51,46.5
+Completion month,"2026-03",183,39.6,33.1,69.0,27.1,23.0,47,54.6
+Completion month,"2026-04",205,38.2,34.9,59.1,26.1,23.0,41,50.7
+Completion month,"2026-05",183,43.8,38.0,75.2,29.8,26.0,50,41.0
+Completion month,"2026-06",204,39.8,34.1,70.0,28.0,24.0,49,52.0
+Completion month,"2026-07",226,40.3,35.5,68.3,28.8,25.5,48,47.8
+Completion month,"2026-08",221,42.1,35.8,76.2,30.0,26.0,54,48.0
+Completion month,"2026-09",196,42.7,36.0,72.1,29.9,25.5,51,47.4
+Complexity band,High,426,69.7,68.9,90.2,48.2,47.5,62,0.0
+Complexity band,Low,866,28.1,27.1,38.2,19.5,19.0,27,83.1
+Complexity band,Medium,870,39.2,37.5,53.1,27.2,26.0,37,39.4
+Overall,All,2162,40.8,35.1,70.0,28.2,24.0,49,49.2

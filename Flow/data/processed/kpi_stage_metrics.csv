@@ -1,0 +1,8 @@
+"stage_no","stage_name","stage_team","episodes_total","closed_episodes","mean_elapsed_days","median_elapsed_days","p90_elapsed_days","mean_queue_days","median_queue_days","p90_queue_days","reentry_episodes","reentry_pct","returned_episodes","return_rate_pct","queued_now","in_stage_now","avg_age_of_queued_days","max_age_of_queued_days"
+7,Activation Handoff,Customer Success,2191,2173,1.74,1.04,3.93,0.00,0.00,0.00,0,0.0,0,0.0,0,13,,
+3,Contract & Legal Review,Legal,2708,2615,9.26,7.09,17.87,0.16,0.01,0.68,72,2.7,73,2.7,7,87,0.36,0.44
+4,Finance Approval,Finance,2578,2483,5.45,4.98,9.92,1.43,0.86,4.01,68,2.6,68,2.6,52,84,3.14,6.34
+6,Go-live Readiness,Implementation,2264,2204,6.81,5.89,13.01,0.03,0.00,0.04,0,0.0,0,0.0,0,56,,
+2,Handoff Acceptance,RevOps,3076,3059,0.61,0.18,1.71,0.01,0.00,0.02,411,13.4,207,6.7,0,5,,
+5,Implementation Setup,Implementation,2469,2379,12.58,10.03,23.91,0.03,0.00,0.04,68,2.8,68,2.8,0,82,,
+1,Intake & Submission,Sales,2991,2949,4.11,3.31,7.72,0.00,0.00,0.00,280,9.4,0,0.0,0,33,,

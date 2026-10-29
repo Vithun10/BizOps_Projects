@@ -1,0 +1,32 @@
+"owner_id","team","role","FTE_fraction","monthly_capacity_hours","active_from","active_to","active_months_in_period","episodes_handled","episodes_per_active_month","complexity_points_per_active_month","complexity_points_per_capacity_hour"
+C01,Customer Success,Customer Success Manager,1.00,90,"2023-01-01",,12.0,476,39.6,70.0,0.777
+C02,Customer Success,Customer Success Manager,1.00,90,"2023-01-01",,12.0,479,39.9,72.2,0.802
+C03,Customer Success,Customer Success Manager,1.00,90,"2023-01-01",,12.0,549,45.7,82.1,0.912
+C04,Customer Success,Customer Success Manager,1.00,90,"2023-01-01",,12.0,668,55.6,100.9,1.121
+F01,Finance,Credit Analyst,1.00,95,"2023-01-01",,12.0,902,75.1,136.0,1.432
+F02,Finance,Billing Specialist,1.00,95,"2023-01-01",,12.0,903,75.2,137.4,1.447
+F03,Finance,Finance Associate,0.60,57,"2023-01-01",,12.0,577,48.1,86.8,1.523
+I01,Implementation,Implementation Lead,1.00,180,"2023-01-01",,12.0,420,35.0,65.9,0.366
+I02,Implementation,Implementation Specialist,1.00,180,"2023-01-01",,12.0,424,35.3,65.8,0.366
+I03,Implementation,Implementation Specialist,1.00,180,"2023-01-01",,12.0,489,40.7,73.7,0.409
+I04,Implementation,Implementation Specialist,1.00,180,"2023-01-01",,12.0,455,37.9,66.8,0.371
+I05,Implementation,Implementation Specialist,1.00,180,"2023-01-01",,12.0,518,43.1,76.1,0.423
+I06,Implementation,Implementation Specialist,1.00,180,"2023-01-01",,12.0,542,45.1,80.0,0.444
+I07,Implementation,Implementation Specialist,1.00,180,"2023-01-01","2026-08-31",11.0,468,42.5,76.9,0.427
+I08,Implementation,Implementation Specialist,1.00,180,"2023-01-01",,12.0,548,45.6,83.9,0.466
+I09,Implementation,Implementation Specialist,1.00,180,"2026-02-01",,8.0,385,48.4,86.6,0.481
+I10,Implementation,Implementation Consultant,0.60,108,"2023-01-01",,12.0,330,27.5,49.6,0.460
+L01,Legal,Legal Counsel,1.00,150,"2023-01-01",,12.0,970,80.8,144.3,0.962
+L02,Legal,Contracts Manager,1.00,150,"2023-01-01",,12.0,993,82.7,154.5,1.030
+L03,Legal,Paralegal,0.50,75,"2023-01-01",,12.0,546,45.5,85.6,1.142
+R01,RevOps,RevOps Lead,0.80,96,"2023-01-01",,12.0,804,67.0,122.4,1.275
+R02,RevOps,RevOps Analyst,1.00,120,"2023-01-01",,12.0,956,79.6,150.1,1.251
+R03,RevOps,RevOps Analyst,1.00,120,"2023-01-01",,12.0,1090,90.8,164.9,1.374
+S01,Sales,Account Executive,1.00,75,"2023-01-01",,12.0,275,22.9,42.8,0.571
+S02,Sales,Account Executive,1.00,75,"2023-01-01",,12.0,262,21.8,40.1,0.535
+S03,Sales,Account Executive,1.00,75,"2023-01-01",,12.0,310,25.8,47.6,0.634
+S04,Sales,Account Executive,1.00,75,"2023-01-01",,12.0,311,25.9,47.3,0.631
+S05,Sales,Account Executive,1.00,75,"2023-01-01",,12.0,414,34.5,61.5,0.821
+S06,Sales,Account Executive,0.80,60,"2023-01-01",,12.0,358,29.8,54.8,0.913
+S07,Sales,Account Executive,1.00,75,"2023-01-01",,12.0,443,36.9,67.5,0.900
+S08,Sales,Account Executive,1.00,75,"2026-01-15",,8.5,373,43.8,83.6,1.114

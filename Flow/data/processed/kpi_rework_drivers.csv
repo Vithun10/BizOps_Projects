@@ -1,0 +1,25 @@
+"dim","val","events","apps","total_minutes","avg_minutes","pct_of_minutes","cumulative_pct_of_minutes"
+Application type,Standard Subscription,214,202,10075,47.1,33.8,33.8
+Application type,Custom Integration,157,147,8913,56.8,29.9,63.7
+Application type,Reseller/Partner,90,82,4951,55.0,16.6,80.3
+Application type,Enterprise Multi-Entity,69,62,4225,61.2,14.2,94.5
+Application type,Pilot-to-Paid,41,37,1650,40.2,5.5,100.0
+Detecting stage,Handoff Acceptance,251,251,13377,53.3,44.9,44.9
+Detecting stage,Contract & Legal Review,127,127,6127,48.2,20.6,65.4
+Detecting stage,Finance Approval,129,129,5763,44.7,19.3,84.7
+Detecting stage,Implementation Setup,64,64,4547,71.0,15.3,100.0
+Handoff (source -> receiving),Sales -> RevOps,251,251,13377,53.3,44.9,44.9
+Handoff (source -> receiving),Sales -> Legal,127,127,6127,48.2,20.6,65.4
+Handoff (source -> receiving),Sales -> Finance,75,75,3461,46.1,11.6,77.0
+Handoff (source -> receiving),Sales -> Implementation,38,38,2788,73.4,9.4,86.4
+Handoff (source -> receiving),RevOps -> Finance,54,54,2302,42.6,7.7,94.1
+Handoff (source -> receiving),RevOps -> Implementation,26,26,1759,67.7,5.9,100.0
+Reason,Missing required fields,149,149,8253,55.4,27.7,27.7
+Reason,Missing signed contract documents,69,69,3477,50.4,11.7,39.3
+Reason,Incorrect billing details,74,74,3187,43.1,10.7,50.0
+Reason,Missing technical specification,45,45,3088,68.6,10.4,60.4
+Reason,Missing customer contact details,54,54,2788,51.6,9.4,69.7
+Reason,Non-standard terms not flagged,58,58,2650,45.7,8.9,78.6
+Reason,Credit information missing,55,55,2576,46.8,8.6,87.3
+Reason,Incorrect pricing or contract data,48,48,2336,48.7,7.8,95.1
+Reason,Unclear requirements,19,19,1459,76.8,4.9,100.0
